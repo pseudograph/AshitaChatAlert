@@ -1,0 +1,2017 @@
+[20:36:41] [Ashita] Loaded plugin: Addons version: 1.40 - by: Ashita Development Team
+[20:36:41] [Ashita] Loaded plugin: Screenshot version: 1.00 - by: Ashita Development Team
+[20:36:41] [Ashita] Loaded plugin: PacketFlow version: 1.00 - by: Thorny (Concept by Byrth)
+[20:36:41] [Ashita] Loaded plugin: Thirdparty version: 1.00 - by: Ashita Development Team
+[20:36:41] [Addons] Failed to load addon 'ibar' due to an error. Error: cannot open \addons\ibar\\ibar.lua: No such file or directory
+[20:36:41] [Addons] Failed to load addon 'imgui' due to an error. Error: cannot open \addons\imgui\\imgui.lua: No such file or directory
+[20:36:41] [Addons] Failed to load addon 'status' due to an error. Error: cannot open \addons\status\\status.lua: No such file or directory
+[20:36:41] [Ashita] Bound: (Å´) insert to: /ashita
+[20:36:41] [Ashita] Bound: (Å´) SYSRQ to: /screenshot hide
+[20:36:41] [Ashita] Bound: (Å´) Ctrl-v to: /paste
+[20:36:41] [Ashita] Bound: (Å´) F11 to: /ambient
+[20:36:41] [Ashita] Bound: (Å´) F12 to: /fps
+[20:36:41] [Ashita] Bound: (Å´) Ctrl-F1 to: /input /ta <a10>
+[20:36:41] [Ashita] Bound: (Å´) Ctrl-F2 to: /input /ta <a11>
+[20:36:41] [Ashita] Bound: (Å´) Ctrl-F3 to: /input /ta <a12>
+[20:36:41] [Ashita] Bound: (Å´) Ctrl-F4 to: /input /ta <a13>
+[20:36:41] [Ashita] Bound: (Å´) Ctrl-F5 to: /input /ta <a14>
+[20:36:41] [Ashita] Bound: (Å´) Ctrl-F6 to: /input /ta <a15>
+[20:36:41] [Ashita] Bound: (Å´) Alt-F1 to: /input /ta <a20>
+[20:36:41] [Ashita] Bound: (Å´) Alt-F2 to: /input /ta <a21>
+[20:36:41] [Ashita] Bound: (Å´) Alt-F3 to: /input /ta <a22>
+[20:36:41] [Ashita] Bound: (Å´) Alt-F4 to: /input /ta <a23>
+[20:36:41] [Ashita] Bound: (Å´) Alt-F5 to: /input /ta <a24>
+[20:36:41] [Ashita] Bound: (Å´) Alt-F6 to: /input /ta <a25>
+[20:36:41] [Ashita] Bound: (Å´) F7 to: /input /ta <bt>
+[20:36:41] [instantah] Function patched; auction results should now be instant.
+[20:36:41] [Addons] Loaded addon: dynamic_entity_renamer version: 1.0.0.0 - by: zach2good, TeoTwawki, atom0s
+[20:36:41] [Addons] Loaded addon: allmaps version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: aspect version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: checker version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: clock version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: distance version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: drawdistance version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: filterless version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: fps version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: ime version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: instantah version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: logs version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: macrofix version: 1.0 - by: atom0s & Sorien
+[20:36:41] [Addons] Loaded addon: petinfo version: 1.0 - by: atom0s & Tornac
+[20:36:41] [Addons] Loaded addon: recast version: 1.0 - by: atom0s, Thorny, RZN
+[20:36:41] [Addons] Loaded addon: simplelog version: 0.10.1b - by: Created by Byrth, Ported by Spiken
+[20:36:41] [Addons] Loaded addon: Timers version: 1.0.1 - by: The Mystic
+[20:36:41] [Addons] Loaded addon: timestamp version: 1.0 - by: atom0s
+[20:36:41] [Addons] Loaded addon: tparty version: 1.0 - by: atom0s
+[20:36:41] [fps] Set the FPS divisor to: 1
+[20:36:41] [SimpleLog] Loaded configuration file: config.lua
+[20:36:41] [SimpleLog] Loaded filters profile: default_filters.lua
+[20:36:41] [SimpleLog] Loaded colors profile: chat_colors.lua
+[20:36:41] === Area: Port Jeuno ===
+[20:36:42] <<< Welcome to HorizonXI! >>>
+[20:36:42] A new adventure is just on the horizon! Please visit horizonxi.com for server information and resources.
+[20:36:42] The Starlight Celebration is active until January 7th. Thank you for being part of our community!
+[20:36:43] [1]< YewTee: Popiah >
+[20:36:43] https://discord.gg/Q6Qu4HAR (2023, Jan. 9 23:19:08)
+[20:36:43] [2]< Spira: Spongeh >
+[20:36:43] https://discord.gg/spira - Might be looking @ CoP starter stuff. Check events for next big thing! (2023, Jan. 3 22:48:27)
+[20:36:46] Kelde[LowJeuno]: {Teleport-Yhoat} {Can I have it?} 1k
+[20:36:50] Seisku[PortJeuno]: LB2 {I'm interested.} 54RDM
+[20:36:51] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[20:37:03] Xell[PortJeuno]: WAR46/NIN23 {Looking for Party} {Experience points}
+[20:37:09] Sage[LowJeuno]: DRK45/WAR22 {Looking for Party} {Experience points} pst
+[20:37:15] Haz[LowJeuno]: {Crawlers' Nest} 42 {Level Sync} {Looking for members.} {Paladin} @5/6 with bard {/tell} Mimi
+[20:37:41] Lexara[LowJeuno]: Tele Holla/Dem/Mea 500g - {/tell} :)
+[20:38:44] Baroom[LowJeuno]: {Teleport-Yhoat} {Can I have it?} 500
+[20:39:00] [1]<Icantdunk> good night all
+[20:39:13] [1]<Cleubond> bb
+[20:39:16] Toottootmf[LowJeuno]: {Teleport-Altep} {Can I have it?} {Reward} 2k
+[20:39:23] Yoey[LowJeuno]: DRK47/THF23 {Looking for Party} {Experience points} ^^
+[20:40:02] Kaelab waves to Erza.
+[20:40:10] Kaelab bows courteously to Erza.
+[20:40:17] Cleubond[BastokMark]: {Palborough Mines} chest key {Please assist.}
+[20:40:26] Hunny[LowJeuno]: THF50/NIN25 lfp LB1. 29 NIN 18 WHM lfp EXP
+[20:41:15] Baroom[LowJeuno]: {Teleport-Yhoat} {Can I have it?} 500
+[20:41:49] Clerie[PortJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[20:41:58] Quinn invites you to join a party.
+[20:42:03] [1]<Cleubond> {Palborough Mines} chest key any help?
+[20:42:07] (Clerie) hello!
+[20:42:11] (Quinn) hello and gm
+[20:42:22] Qfox[Selbina]: WHM11/BLM5 {Level Sync} {Do you need it?} 
+[20:42:31] === Area: Lower Jeuno ===
+[20:42:34] Musty[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[20:42:38] Novaray : {Teleport-Altep}...?????
+[20:42:53] [1]<Hocuspocus> Cleu can later?
+[20:42:58] [Rhelk] Teleport-Altep Å® Rhelk
+[20:42:59] Quinn waves to Clerie.
+[20:43:04] [1]<Hocuspocus> I am going dinner anytime now
+[20:43:06] [Lexara] Teleport-Mea Å® Lexara
+[20:43:06] Musty bows courteously to Lexara.
+[20:43:09] (Quinn) at MH
+[20:43:15] [1]<Cleubond> ok we shall see
+[20:43:18] Lexara and Musty happily dance together.
+[20:43:19] You offer to trade with Quinn.
+[20:43:24] Turban : {Teleport-Mea} {Can I have it?}
+[20:43:27] [Quinn] Teleport-Holla Å® Quinn
+[20:43:32] (Clerie) wait
+[20:43:33] [1]<Cleubond> questing now
+[20:43:34] [1]<Hocuspocus> u r also sinkie
+[20:43:36] Quinn's casting is interrupted.
+[20:43:36] (Clerie) i'm offering
+[20:43:40] (Clerie) not buying
+[20:43:42] (Clerie) lol
+[20:43:44] Turban : {Teleport-Mea} {Can I have it?}
+[20:43:50] [1]<Cleubond> north of sinkie
+[20:43:55] Khettu[BastokMark]: Teleport-Mea/Dem/Holla 500g Altep/Yhoat 1000g {Do you need it?} /tell ^^/
+[20:43:55] (Clerie) sorry, miscommunication i guess
+[20:43:58] Drath : {Teleport-Holla} {Can I have it?} 500g
+[20:43:58] Hunny motions joyfully to Drath.
+[20:44:02] Drath waves to Alfont.
+[20:44:05] (Clerie) i'll make my yell clearer next time
+[20:44:05] There are no party members.
+[20:44:05] Drath waves.
+[20:44:07] Altwight : LF cook 50+ for some synths will tip
+[20:44:08] [1]<Hocuspocus> tiong?
+[20:44:14] Mikachan[LowJeuno]: {Teleport-Mea} {Can I have it?}500g
+[20:44:23] === Area: Port Jeuno ===
+[20:44:24] [1]<Cleubond> bolehland 
+[20:44:40] [1]<Hocuspocus> bossku bank
+[20:44:47] [1]<Cleubond> got money apa pun boleh
+[20:44:59] [1]<Cleubond> that guy stole billions!
+[20:45:20] Clerie[PortJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[20:45:31] [1]<Hocuspocus> i thought of anming my mule bossku
+[20:45:32] Hunny>> i need
+[20:45:39] Sage[LowJeuno]: 45drk/war    24mnk/war {Looking for Party} {Experience points} {Kazham} ok pst
+[20:45:41] (Clerie) hello!
+[20:45:44] [1]<Cleubond> w
+[20:45:52] === Area: Lower Jeuno ===
+[20:45:58] (Hunny) sec sry i gotta go buy a warp scroll
+[20:46:04] (Clerie) okay
+[20:46:19] (Clerie) i'll be at the MH
+[20:46:25] Jetter : {Teleport-Mea} {Can I have it?} 500G
+[20:46:40] Chelli : {Teleport-Dem} {Can I have it?} {Please invite me.}
+[20:46:45] [1]<Cleubond> our leaders are too corrupt
+[20:47:04] Novaray : {Teleport-Altep}...?????
+[20:47:10] [Quinn] Teleport-Dem Å® Quinn
+[20:47:21] Opaque : {Teleport-Altep} {Can I have it?} 500g {You can have this.}
+[20:47:30] Quinn Teleport-Dem Å® {2}: Quinn and Chelli (Vanish)
+[20:47:36] [1]<Hocuspocus> now anwar should be ok right?
+[20:47:43] Aureus[NSandOria]: {Teleport-Mea} {Do you have it?} {Please invite me.} 500g
+[20:47:52] [1]<Cleubond> just slightly better
+[20:47:58] Coulant[LowJeuno]: anyone doing mission 3-3 and need a party member? 40THF/20NIN PST
+[20:48:01] [1]<Cleubond> not hoping for miracles
+[20:48:15] Novaray : {Teleport-Altep}...?????
+[20:48:35] (Hunny) sry for the wait, ill pay extra for using up your time
+[20:48:41] (Clerie) no problem
+[20:48:45] Gufrion[BastokMine]: WTB Hojo Ichi 30k PST
+[20:48:48] Lexara[LowJeuno]: Selling Ports to Holla/Dem/Mea 500g - {/tell}
+[20:48:50] Opaque : {Teleport-Altep} {Can I have it?} 500g {You can have this.}
+[20:48:59] Selphy[WindWoods]: {Teleport-Holla} from Windy - {Can I have it?} {Thank you.}
+[20:49:19] Hunny wishes to trade with you.
+[20:49:24] Kyuu : {Teleport-Dem} 500g {please}
+[20:49:30] Trade complete.
+[20:49:34] [Clerie] Teleport-Holla Å® Clerie
+[20:49:36] Novaray : {Teleport-Altep}...?????
+[20:49:39] Migado : {Teleport-Dem} {Can I have it?}
+[20:49:43] Prof : {Teleport-Holla} {Can I have it?} 500g
+[20:49:43] Brigid : {Teleport-Dem} {Can I have it?} 500g
+[20:49:51] Opaque : {Teleport-Altep} {Can I have it?} 500g {You can have this.}
+[20:49:54] Clerie Teleport-Holla Å® {2}: Clerie and Hunny (Vanish)
+[20:50:01] === Area: La Theine Plateau ===
+[20:50:12] (Clerie) ty!
+[20:51:37] The OrcishÅ?Mesmerizer's Blaze Spikes effect wears off.
+[20:52:52] >> /linkshell 
+[20:52:52] ...A command error occurred.
+[20:53:35] === Area: Jugner Forest ===
+[20:53:45] [OrcishÅ?Serjeant] Protect Å® OrcishÅ?Serjeant
+[20:53:46] OrcishÅ?Serjeant Protect Å® OrcishÅ?Serjeant (Protect)
+[20:58:17] [1]<Cleubond> ok got the {Palborough Mines} key
+[20:58:41] [1]<Woomie> nice
+[20:58:46] [1]<Clerie> grats
+[20:58:53] [1]<Cleubond> 2 more zzz
+[20:59:16] [1]<Woomie> long travels
+[20:59:38] [1]<Cleubond> yea super long walks
+[21:00:33] Conquest update:
+This region is currently under beastman control.
+You cannot obtain crystals in this region.
+[21:00:33] Regional influence:
+San d'Oria - Major
+[21:00:33] Bastok - Minimal
+[21:00:33] Windurst - Minor
+[21:00:33] Bastok and Windurst are currently allies.
+[21:01:49] [ForestÅ?Tiger] missed Å® Tooshay
+[21:01:49] [ForestÅ?Tiger] 47 critical hit Å® Tooshay
+[21:01:49] [Tooshay] 29 hit Å® ForestÅ?Tiger
+[21:01:50] [Tooshay] Red Lotus Blade Å® ForestÅ?Tiger
+[21:01:50] [Tooshay] 54 Red Lotus Blade Å® ForestÅ?Tiger
+[21:01:51] [ForestÅ?Tiger] Claw Cyclone
+[21:01:52] [ForestÅ?Tiger] 31 Claw Cyclone
+[21:02:02] [Kooyo] Fight Å® BrutalÅ?Sheep
+[21:02:04] [SheepFamiliar] 29 hit Å® BrutalÅ?Sheep
+[21:02:05] The SheepFamiliar hits the Brutal Sheep for 29 points of damage.
+[21:02:05] [Kooyo] Raging Axe Å® BrutalÅ?Sheep
+[21:02:06] [Kooyo] 72 Raging Axe Å® BrutalÅ?Sheep
+[21:02:06] [BrutalÅ?Sheep] 26 hit Å® SheepFamiliar
+[21:02:07] The Brutal Sheep hits the SheepFamiliar for 26 points of damage.
+[21:02:08] [Kooyo] 34 hit Å® BrutalÅ?Sheep
+[21:02:08] [SheepFamiliar] missed Å® BrutalÅ?Sheep
+[21:02:09] The SheepFamiliar misses the Brutal Sheep.
+[21:02:10] [BrutalÅ?Sheep] missed Å® Kooyo
+[21:02:13] [SheepFamiliar] 35 hit Å® BrutalÅ?Sheep
+[21:02:13] [Kooyo] 36 hit Å® BrutalÅ?Sheep
+[21:02:14] The SheepFamiliar hits the Brutal Sheep for 35 points of damage.
+[21:02:55] === Area: Batallia Downs ===
+[21:03:47] [checker] May Fly Å® (Lv. 24) too weak to be worthwhile (High Defense)
+[21:03:47] The May Fly seems to be level 24 (TW).
+It seems to have high defense.
+[21:05:35] [Addons] Addon 'simplelog' encountered an error during an event callback 'packet_in'. Error: ...\HorizonXI\Game\\addons\simplelog\lib\packethandlers.lua:293: attempt to concatenate field 'owner_name' (a nil value)
+stack traceback:
+	...\HorizonXI\Game\\addons\simplelog\lib\packethandlers.lua: in function 'HandleIncomingPacket'
+	...orizonXI\HorizonXI\Game\\addons\simplelog\\simplelog.lua:61: in function <...orizonXI\HorizonXI\Game\\addons\simplelog\\simplelog.lua:60>
+[21:05:35] [Addons] Unloaded addon: simplelog
+[21:06:37] The Evil Spirit's Ice Spikes effect wears off.
+[21:07:28] The Goblin Shaman starts casting Sleepga.
+[21:07:34] The Goblin Furrier's ranged attack hits Clerie for 16 points of damage.
+[21:07:36] The Goblin Shaman casts Sleepga.
+Clerie is asleep.
+[21:07:38] The Goblin Shaman starts casting Aero II.
+[21:07:40] The Goblin Furrier's ranged attack misses.
+[21:07:42] Clerie's sleep effect wears off.
+[21:07:46] The Goblin Furrier's ranged attack hits Clerie for 17 points of damage.
+[21:07:47] The Goblin Shaman casts Aero II.
+Clerie takes 31 points of damage.
+[21:07:52] The Goblin Furrier's ranged attack misses.
+[21:07:57] The Goblin Shaman starts casting Rasp.
+[21:08:00] The Goblin Shaman's casting is interrupted.
+[21:08:08] Clerie is too far away.
+[21:08:18] === Area: Upper Jeuno ===
+[21:09:09] Lexington[PortJeuno]: {Teleport-Holla} {Please assist.} 500g
+[21:09:14] Kitiara[Mhaura]: {Carbuncle} Ruby, {Help me out!}? :)) 
+[21:09:42] === Area: Lower Jeuno ===
+[21:09:44] Lizzy[BastokMine]: {Teleport-Dem} {Can I have it?} 500g :)
+[21:10:25] Roseeva[PortJeuno]: {Teleport-Altep} {Can I have it?} 1k {Reward}
+[21:10:29] === Area: Lower Jeuno ===
+[21:10:37] Riquelme[RuLudeGard]: {Teleport-Vahzl} {Can I have it?} 1K
+[21:10:53] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:10:59] Quinn invites you to join a party.
+[21:11:10] Chalv[LowJeuno]: {Teleport-Altep} {Can I have it?} 500 gils
+[21:11:11] Pendulum[WindWoods]: {Teleport-Dem} {Can I have it?} 500g
+[21:12:16] Bulletsponge[WindWalls]: WTS Moat Carps 1.5k stack pst
+[21:12:16] Samages[LowJeuno]: {Teleport-Mea} {Can I have it?}
+[21:13:30] Chalv : {Teleport-Altep} {Can I have it?} 500gils
+[21:13:42] Riquelme[LowJeuno]: {Teleport-Vahzl} {Can I have it?} 1K
+[21:13:48] Rigsby[PortJeuno]: Teleports to Dem/Mea/Holla PST 500g
+[21:13:59] Selphy[NSandOria]: {Teleport-Holla} from Sandy - {Can I have it?} {Thank you.}
+[21:14:27] Starsgalka : {Teleport-Dem} {Can I have it?} 400g
+[21:14:28] Chalv[PortJeuno]: {Teleport-Altep} {Can I have it?} 500 gils
+[21:14:34] Trainwreck[PortJeuno]: LB2 {Do you need it?} {/tell} 4/6
+[21:14:36] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[21:14:44] Trague[SSandOria]: San d'Orian Helpers Inc Teleportation (S.H.I.T) - HOLLA, DEM, MEA - 500 / Yhoat, Altepa 1K
+[21:14:52] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:14:52] You must wait longer to perform that action.
+[21:15:30] Chalv : {Teleport-Altep} {Can I have it?} 1k gils
+[21:15:36] Bean[WindWaters]: Doing LB3 Davio shortly, if anyone wants to tag along
+[21:15:42] Lexara[LowJeuno]: Selling Teleports Holla/Dem/Mea 500g - {/tell} ^^
+[21:15:49] Classic[LowJeuno]: WTB {San d'Oria} rank 5 item 40k
+[21:16:19] Leftyrights : (Teleport-Mea) (can i have it) 500g
+[21:16:28] Chalv : {Teleport-Altep} {Can I have it?} 1k gils
+[21:16:32] Particlebeam[PSandOria]: What do we need to do to unlock the ability to outpost warp? The dude says monsters are attacking adventurers...
+[21:16:33] Gal[LowJeuno]: {Teleport-Holla}500g{please}
+[21:16:40] Musty[Rabao]: LF {Teleport-Altep} for a {Party} 5,000g
+[21:16:43] (Clerie) Hello!
+[21:16:48] (Clerie) in front of the mog house
+[21:16:51] Butsuon[PortWind]: the twinkling treats need to die Particlebeam
+[21:17:09] Lexara waves.
+[21:17:17] Khettu[BastokMine]: Teleport-Mea/Dem/Holla 500g Altep/Yhoat 1000g {Do you need it?} /tell ^^/
+[21:17:18] Giyira[LowJeuno]: {Teleport-Yhoat}
+[21:17:20] Auron[PortJeuno]: we need to kill 12 trees in 12 areas to unlock {Outpost} warp
+[21:17:42] Target out of range.
+[21:17:43] Gal wishes to trade with you.
+[21:17:45] Hammer[NSandOria]: think theres still 8 or 9 Treants remaining so dont think it will be soon
+[21:17:49] Giyira : {Teleport-Yhoat} {Reward} {Invite to Join Party}
+[21:17:50] Trade complete.
+[21:17:53] Clerie starts casting Teleport-Holla on Clerie.
+[21:18:02] Khorda[LowJeuno]: treant killing will be a while, the final one is in glacier and is like level 60 something
+[21:18:07] Lexara's casting is interrupted.
+[21:18:09] Fidi[LowJeuno]: LB1 Ancient Papyrus {Do you need it?} {/tell}
+[21:18:15] Sage[LowJeuno]: 45drk/war 24mnk/war {Looking for Party} {Experience points} {Kazham} ok pst
+[21:18:27] (Gal) ty
+[21:18:28] (Clerie) ty!
+[21:18:37] === Area: Lower Jeuno ===
+[21:18:40] Giyira : {Teleport-Yhoat} {Reward} {Invite to Join Party}
+[21:18:56] Aureus[WindWoods]: the biggest danger isn't the trees in those areas but the mobs around them
+[21:19:11] Riquelme[LowJeuno]: {Teleport-Vahzl} {Can I have it?} 1K
+[21:19:13] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:19:22] Ono>> holla plz
+[21:19:23] Classic : {Teleport-Altep} {Can I have it?} 1k
+[21:19:27] Nicod : {Teleport-Dem} {Can I have it?} {please} 500g {You can have this.}
+[21:19:32] Wizardarms : {Teleport-Holla} {Can I have it?} 500 gil {Invite to Join Party}
+[21:19:32] (Clerie) Hello!
+[21:19:33] Poops[NSandOria]: "I'm not locked in here with you - you're locked in here with me" - poops
+[21:19:33] Jnoodlez[LowJeuno]: {limit} {Break} 1 {Do you need it?} {Help me out!}
+[21:19:36] Giyira : {Teleport-Yhoat} {Reward} {Invite to Join Party}
+[21:19:36] Alkhzar[WindWalls]: Plus the white mage union making sure they stay fully healed
+[21:19:45] (Clerie) in front of the mog house
+[21:19:47] Ashaman[BastokMark]: Smelly
+[21:19:56] Target out of range.
+[21:19:57] Ono wishes to trade with you.
+[21:20:01] Trade complete.
+[21:20:04] Clerie starts casting Teleport-Holla on Clerie.
+[21:20:33] (Clerie) ty!
+[21:20:46] === Area: Lower Jeuno ===
+[21:20:51] Auburn[SSandOria]: {Teleport-Mea} {Help me out!} 500g
+[21:21:12] Sintruli[LowJeuno]: {Teleport-Vahzl} {I'm interested.} /
+[21:21:26] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[21:21:41] Triptonic[LowJeuno]: {Teleport-Dem} {Can I have it?} 2x people 
+[21:21:45] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:21:51] Trague[SSandOria]: San d'Orian Helpers Inc Teleportation (S.H.I.T) - HOLLA, DEM, MEA - 500 / Yhoat, Altepa 1K
+[21:22:10] Trainwreck[PortJeuno]: LB2 {Do you need it?} {/tell} 6/? need tank
+[21:22:21] Sintruli : {Teleport-Vahzl} {I'm interested.} 
+[21:22:43] Starless[PortJeuno]: anyone give a free {Teleport-Dem}? trying to get back to {Bastok} to fish to make money bc im broke
+[21:22:47] Zeeks[WindWoods]: Alchemy 70+ Anima Synthesis {Do you have it?}
+[21:23:15] [2]<Silverhand> sup early gang
+[21:23:20] Sushomi caught a yellow globe!
+[21:23:38] Zanfire[SSandOria]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} /tell
+[21:23:39] Yueechi[PortJeuno]: {Teleport-Mea} {Can I have it?} {Please assist.}
+[21:23:44] [2]<Loon> o/
+[21:24:05] Chiraag[SSandOria]: LF tank for 32 Sync Crawlers Nest and RDM
+[21:24:19] Mau[PortJeuno]: WAR22/MNK11 {Looking for Party} {Any vacancies?}
+[21:24:26] Riquelme[LowJeuno]: {Teleport-Vahzl} {Can I have it?} 2K
+[21:24:31] Starless bows courteously to Quinn.
+[21:24:34] Triptonic waves to Lexara.
+[21:24:49] Fmtwo[LowJeuno]: Teleports Holla/Mea/Dem {Do you need it?} 500g/tell Fmtwo
+[21:24:52] [2]<Loon>  I am in office today, sojust fishing on laptop in downtime
+[21:24:52] Triptonic bows courteously to Lexara.
+[21:25:04] [2]<Silverhand> aah nice
+[21:25:09] Opaque[LowJeuno]: YO join up LB2 ALLIANCE /t trainwreck to join!!!!
+[21:25:12] [2]<Biggs> way to multi-task ^^
+[21:25:27] Chakra : {Teleport-Yhoat} {Reward} 500 {Thank you.}
+[21:25:28] [2]<Loon> I nmormally work in office t-th
+[21:25:33] Tsukiyomi[UpJeuno]: LFM 3/6 lvl sync to 15 away from dunes /tell if interested and tired of sand
+[21:25:42] [2]<Loon> cant let that interupt ffxi
+[21:25:45] [2]<Loon> PRIORITIES
+[21:25:45] [2]<Silverhand> nice, similar settup to me
+[21:25:50] Sintruli : {Teleport-Vahzl} {I'm interested.} 
+[21:25:54] [2]<Silverhand> except I'm wfh tues & fri
+[21:25:55] [2]<Uncletaco> bruh these damn companies and trying to get people back in office
+[21:25:58] [2]<Uncletaco> just let us be free
+[21:26:00] Jnoodlez[LowJeuno]: {limit} {Break} 1 {Do you need it?} {Help me out!}
+[21:26:04] [2]<Biggs> i know those days, and thank god they are over for me
+[21:26:21] Sintruli[LowJeuno]: {Teleport-Vahzl} {I'm interested.} 1k {You can have this.} /t
+[21:26:24] [2]<Biggs> couldln't stand office politics
+[21:26:28] Riquelme : {Teleport-Holla} {Can I have it?} 500g
+[21:26:32] Gal[SSandOria]: {Teleport-Mea}500g{please}
+[21:26:38] [2]<Silverhand> office drama is the worst
+[21:26:38] (Clerie) Hello!
+[21:26:43] (Riquelme) /
+[21:26:44] [2]<Loon> I get recruited like 5x a week. If they back to office full time, its peace out
+[21:26:44] [2]<Silverhand> just let me work at home in peace
+[21:26:45] (Clerie) I'm in front of the moghouse
+[21:26:53] [2]<Loon> facts
+[21:26:53] [2]<Biggs> and sorry but woman can be so caddy
+[21:27:01] [2]<Loon> catty?
+[21:27:06] You offer to trade with Riquelme.
+[21:27:09] (Riquelme) ty
+[21:27:14] Trade complete.
+[21:27:17] Tsuim[NSandOria]: {Teleport-Yhoat} {Can I have it?} 500g
+[21:27:18] [2]<Biggs> yeah
+[21:27:19] Clerie starts casting Teleport-Holla on Clerie.
+[21:27:27] Gannima[PSandOria]: WTB {Windurst} Rank 4 CP item for 20k, {/tell} {Thank you.}
+[21:27:33] Sage[LowJeuno]: 45drk/war 24mnk/war {Looking for Party} {Experience points} {Kazham} ok pst
+[21:27:48] (Clerie) ty!
+[21:27:52] (Riquelme) ty
+[21:28:02] === Area: Lower Jeuno ===
+[21:28:11] [2]<Loon> well my whole team is women including my boss and they all rock
+[21:28:15] Trippin[NSandOria]: {Teleport-Yhoat} {Can I have it?} {Reward}
+[21:28:17] [2]<Loon> But I have had bad experiences before
+[21:28:26] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:28:32] Manu[Metalworks]: Interesse an einer deutschsprachigen Linkshell? {/tell}
+[21:28:45] [2]<Biggs> you're lucky i guess you're in the click
+[21:28:48] Sintruli : {Teleport-Vahzl} {I'm interested.} {Reward}1k {You can have this.}
+[21:28:51] Uzumaki[NSandOria]: {Teleport-Altep} {please} 500g
+[21:28:54] Gwyin[WindWaters]: Fire weather in altepa desert
+[21:29:02] Samages[LowJeuno]: {Teleport-Holla} {Can I have it?}
+[21:29:03] Fidi[LowJeuno]: LB1 Ancient Papyrus {Do you need it?} {/tell}
+[21:29:09] Lexara :  /pcmd add Samages
+[21:29:14] Fmtwo : Almost
+[21:29:16] (Clerie) Hello!
+[21:29:18] Lexara : HAHAHA
+[21:29:22] (Clerie) in front of the moghouse
+[21:29:26] (Samages) {Hello!}
+[21:29:28] Trague[SSandOria]: San d'Orian Helpers Inc Teleportation (S.H.I.T) - HOLLA, DEM, MEA - 500 / Yhoat, Altepa 1K
+[21:29:29] Cicaeda : {Teleport-Holla} {Can I have it?} 500
+[21:29:30] Lexara panics!
+[21:29:36] Chakra : {Teleport-Yhoat} 1k {Reward}
+[21:29:43] Khettu[BastokMine]: Teleport-Mea/Dem/Holla 500g Altep/Yhoat 1000g {Do you need it?} /tell ^^/
+[21:29:53] You offer to trade with Samages.
+[21:30:05] Trade complete.
+[21:30:08] Clerie starts casting Teleport-Holla on Clerie.
+[21:30:12] (Samages) {Thank you.}
+[21:30:17] (Clerie) ty!
+[21:30:20] Kazomaru[UpJeuno]: {Teleport-Mea} {Can I have it?} {Reward} 5oo
+[21:31:04] === Area: Lower Jeuno ===
+[21:31:29] Lexara waves to Grolma.
+[21:31:31] Solana : {Teleport-Mea} {Can I have it?} 500G
+[21:31:33] Grolma waves to Lexara.
+[21:31:40] Riaky[LowJeuno]: {Teleport-Mea} {Can I have it?} 500G {/tell}
+[21:31:57] Awfl[WindWoods]: {Teleport-Dem} 500g {please}
+[21:32:05] Riaky waves to Lexara.
+[21:32:18] Butsuon[WindWalls]: did they add an auctioneer or anything to windurst so its not awful?
+[21:32:35] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[21:33:03] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:33:05] Sintruli[LowJeuno]: {Teleport-Vahzl} {I'm interested.} 1k {You can have this.} /t
+[21:33:13] Kazomaru bows courteously to Lexara.
+[21:33:17] Riaky bows courteously to Lexara.
+[21:33:31] Wuzuquan>> Hi!  Is that teleport near bastok?
+[21:33:46] Yoey[PortJeuno]: DRK47/THF23 {Looking for Party} {Experience points} pst
+[21:33:55] >>Wuzuquan : hello! holla is in the la theine plateau, so it's near san d'oria
+[21:34:16] Sage[PortJeuno]: 45drk/war 24mnk/war {Looking for Party} {Experience points} {Kazham} ok pst
+[21:34:38] Tabby : {Teleport-Mea} {Can I have it?} {You can have this.} 500g
+[21:34:43] Wuzuquan>> Oh ok, I think I need Dem then.  Whichever is near bastok if you have it
+[21:34:52] >>Wuzuquan : ah sorry, I only have holla
+[21:35:11] Wuzuquan>> Ok then, no worries.  Thanks
+[21:35:15] Sushomi caught a yellow globe!
+[21:35:17] Zoricana[WindWoods]: {Red Mage} 31 {Looking for Party} {Experience points}
+[21:36:05] Suletta[LowJeuno]: {Teleport-Dem} {Can I have it?} 500g
+[21:36:08] Tabby cheers Lexara on!
+[21:36:13] Lexara smiles warmly at Tabby.
+[21:36:41] Clairvoyant waves to Suletta.
+[21:36:45] Suletta bows courteously to Clairvoyant.
+[21:36:59] Sinemetu : {Teleport-Mea} {Please assist.} {Reward}
+[21:37:32] Cajun[PortBastok]: WTT my {Bastok} r3 your {Windurst} r3 {/tell} bonus {Reward}!
+[21:37:42] Tessius[PortBastok]: me too!
+[21:37:58] Filthycasual[WindWaters]: {Rank Evaluation} 2-3 {Balga's Dais} {Team up?} 3/6 need a bunch of DDs
+[21:37:59] Awfl[WindWoods]: {Teleport-Dem} 500g {please}
+[21:38:11] Wileykat[PortJeuno]: {Teleport-Mea} {Can I have it?} 500g {You can have this.}
+[21:38:18] Yueechi[PortJeuno]: {Teleport-Mea} {Can I have it?} {Please assist.}
+[21:38:26] Clash[PortJeuno]: {Teleport-Dem} {Can I have it?} 500g
+[21:38:31] Jesus : tele holla plz 500g
+[21:38:39] Khettu[BastokMark]: Teleport Mea/Dem/Holla 500g Altep/Yhoat 1000g {Do you need it?} /tell ^^/
+[21:38:41] (Clerie) hello
+[21:38:46] (Clerie) in front of mog house
+[21:38:47] Jesus waves to Clerie.
+[21:38:52] Clairvoyant waves to Wileykat.
+[21:38:53] You offer to trade with Jesus.
+[21:38:55] Wileykat waves to Clairvoyant.
+[21:39:00] Trade complete.
+[21:39:04] Clerie starts casting Teleport-Holla on Clerie.
+[21:39:09] (Jesus) ty
+[21:39:11] Jesus bows courteously to Clerie.
+[21:39:11] (Clerie) ty!
+[21:39:13] Malpractice[LowJeuno]: {Teleport-Yhoat} {Can I have it?} 1k {Please invite me.}
+[21:39:38] Lexara[LowJeuno]: Selling ports Holla/Dem/Mea 500g - {/tell} ^^
+[21:39:43] === Area: Lower Jeuno ===
+[21:39:57] Filthycasual[WindWoods]: {Rank Evaluation} 2-3 {Balga's Dais} {Team up?} 3/6 need a bunch of DDs
+[21:40:11] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:40:16] Clairvoyant invites you to join a party.
+[21:40:18] Yoey[PortJeuno]: DRK47/THF23 {Looking for Party} {Experience points} pst
+[21:40:20] Trinton[LowJeuno]: {Teleport-Dem} {Can I have it?}
+[21:40:26] (Clerie) hello!
+[21:40:29] (Clairvoyant) Heya
+[21:40:36] (Clerie) i'm at the mog house
+[21:40:49] (Clairvoyant) Sorry I thought you wanted holla I'm a dumbass lol :(
+[21:40:54] (Clerie) oh lol, not the first time
+[21:40:55] (Clairvoyant) {Take care.}
+[21:40:55] (Clerie) no prob
+[21:41:09] Glerkie[LowJeuno]: BLM24/WHM12 {Looking for Party} <3
+[21:41:33] Zugot[PortWind]: i was ghosted when i turned in my rank up. Does "Initiate" rank mean im capped at 20 or 30
+[21:41:43] Kel pokes Lexara.
+[21:41:45] Obi[LowJeuno]: {Teleport-Holla} {Can I have it?} {Reward} 500g
+[21:41:49] Lexara waves to Kel.
+[21:41:52] Mewlax[PortJeuno]: {Teleport-Mea} {Can I have it?} 500
+[21:41:53] (Clerie) Hello!
+[21:41:56] Janitor[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[21:41:59] (Clerie) I'm in front of the mog house
+[21:42:00] (Obi) hi
+[21:42:03] Clerie's Signet effect wears off.
+[21:42:10] Sintruli[LowJeuno]: {Teleport-Vahzl} {I'm interested.} 1k {You can have this.}
+[21:42:10] Enternius[WindWaters]: Initiate is 30 cap
+[21:42:13] You offer to trade with Obi.
+[21:42:16] Obi waves to Clerie.
+[21:42:22] Trade complete.
+[21:42:25] Clerie starts casting Teleport-Holla on Clerie.
+[21:42:30] Fireballx[PortJeuno]: {Teleport-Dem} {Reward} 400g
+[21:42:34] (Clerie) ty!
+[21:42:41] (Obi) ty
+[21:43:09] === Area: Lower Jeuno ===
+[21:43:29] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:43:36] Trunks cheers Wubz on!
+[21:43:43] Mewlax : {Teleport-Mea} {Can I have it?} 500
+[21:44:05] Clairvoyant waves to Mewlax.
+[21:44:19] Mojoe bows courteously to Rez.
+[21:44:19] Fireballx bows courteously to Quinn.
+[21:44:28] Redmight[PortJeuno]: {Party} {Kazham} {Level Sync} 29 {Do you need it?} DPS + TANK
+[21:44:31] Janitor[PortJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[21:44:34] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} /tell
+[21:44:50] Zoricana[WindWoods]: {Red Mage} 31 {Looking for Party} {Experience points}
+[21:44:57] Filthycasual[WindWoods]: {Rank Evaluation} 2-3 {Balga's Dais} {Team up?} 4/6 need a couple of DDs
+[21:45:36] Yoey[PortJeuno]: DRK47/THF23 {Looking for Party} {Experience points} pst
+[21:45:51] Jezibelle : {Teleport-Altep} {Can I have it?}
+[21:45:54] Taruminator : {Teleport-Mea} {Can I have it?} 500g
+[21:46:00] Setia : WTB {Teleport-Dem} 500g
+[21:46:13] Janitor bows courteously to Lexara.
+[21:46:13] Clairvoyant waves to Jezibelle.
+[21:46:19] Wubz cheers Taruminator on!
+[21:46:19] Lexara smiles warmly at Janitor.
+[21:46:22] Setia bows courteously to Quinn.
+[21:46:22] Buttz[UpJeuno]: {Teleport-Dem} {Can I have it?} 500g
+[21:46:35] Captain : {Teleport-Mea} {Can I have it?}
+[21:46:35] Quinn's casting is interrupted.
+[21:46:35] [1]<Cleubond> heading to {Windurst} for {Giddeus} chest key
+[21:46:38] Torg : {Teleport-Altep} {Can I have it?} {Reward} 1k
+[21:46:46] Eire[PortJeuno]: {Teleport-Mea} {Can I have it?} {please} 500g
+[21:46:49] [1]<Cleubond> so much walking...
+[21:46:51] Clairvoyant's casting is interrupted.
+[21:47:00] Clairvoyant waves to Torg.
+[21:47:09] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:47:09] You must wait longer to perform that action.
+[21:47:14] Bunsmckenzie[PortJeuno]: {Teleport-Holla} {Can I have it?} 1000g
+[21:47:19] Trollscout[LowJeuno]: THF42/WAR20 {Looking for Party} {Level Sync} ok {Kazham} ok {Experience points} {Yes, please.}
+[21:47:29] You cannot invite that person at this time.
+[21:47:31] (Clerie) hello!
+[21:47:37] (Bunsmckenzie) Hi.
+[21:47:38] Captain : {Teleport-Mea} {Can I have it?}
+[21:47:43] (Clerie) i'll come to port
+[21:47:49] Ibex[SSandOria]: {Teleport-Holla} {Can I have it?} x2
+[21:47:50] (Clerie) nvm
+[21:47:53] (Clerie) let's meet at the mog house
+[21:47:54] Atsuma : {Teleport-Yhoat} {Can I have it?} 1k
+[21:47:56] Wubz cheers Captain on!
+[21:48:02] Gal[NSandOria]: {Teleport-Dem}500g{please}
+[21:48:12] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[21:48:13] (Bunsmckenzie) Okay.
+[21:48:14] (Clerie) just in front of the entrance
+[21:48:29] (Clerie) sorry, it's because i need to slidecast into the MH lol
+[21:48:37] You offer to trade with Bunsmckenzie.
+[21:48:44] Trade complete.
+[21:48:47] Clerie starts casting Teleport-Holla on Clerie.
+[21:48:54] Lexara[LowJeuno]: Selling Ports Holla/Dem/Mea 500g- {/tell} ^^
+[21:48:55] (Clerie) ty!
+[21:48:59] (Bunsmckenzie) Gotcha.
+[21:49:13] Namy[PortWind]: {Teleport-Dem} {Can I have it?} {Reward:} 500g
+[21:49:18] Khettu[BastokMark]: Teleport Mea/Dem/Holla 500g Altep/Yhoat 1000g {Do you need it?} /tell ^^/
+[21:49:26] === Area: Lower Jeuno ===
+[21:49:27] [2]<Silverhand> zoned into {Windurst Waters} from {Windurst Walls} and the game crashed XD
+[21:49:33] Saekonaut bows courteously to Bean.
+[21:49:48] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[21:49:58] Atsuma bows courteously to Grimscar.
+[21:50:05] Filthycasual[WindWoods]: {Rank Evaluation} 2-3 {Balga's Dais} {Team up?} 4/6 need a couple of DDs
+[21:50:08] [2]<Mathious> yea I think the zoning "fixes" were undone b/c it was making everything worse
+[21:50:15] [2]<Silverhand> aha
+[21:50:16] Zeldris bows courteously to Lexara.
+[21:50:20] Lexara smiles warmly at Zeldris.
+[21:50:25] [2]<Mathious> but at least login works so you aren't stuck outside for hours potentially
+[21:50:44] [2]<Alastar> yeah login server fix is super great. rest of server will get there with time
+[21:50:55] Puddlex : {Teleport-Mea} {Can I have it?} 500g
+[21:51:03] [2]<Alastar> overall this is leagues above other early day private servers that ive tried
+[21:51:13] [2]<Silverhand> is it specific zones that are problems? or just random issues across any zone?
+[21:51:16] [2]<Mathious> yea it's a huge first step and I'm grateful for login fix
+[21:51:25] [2]<Mathious> random
+[21:51:29] [2]<Silverhand> aah
+[21:51:32] [2]<Silverhand> good to know lol
+[21:51:43] Yoey[PortJeuno]: DRK47/THF23 {Looking for Party} {Experience points} pst
+[21:51:56] Zoricana[WindWoods]: {Red Mage} 31 {Looking for Party} {Experience points}
+[21:52:05] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[21:52:07] Selaine[SSandOria]: {Teleport-Altep}{please}1000g
+[21:52:16] Doublezero : {Teleport-Mea} {Can I have it?}
+[21:52:22] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[21:52:26] Bean invites you to join a party.
+[21:52:45] Boondox : {Teleport-Mea} inv plz
+[21:52:53] Aan : {Can I have it?} {Teleport-Dem} 300g
+[21:53:13] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[21:53:35] Komori[UpJeuno]: {Teleport-Mea} {Can I have it?} {Please invite me.}
+[21:53:38] Revii[LowJeuno]: {Teleport-Dem} {Can I have it?} 500g
+[21:53:42] Samages[LowJeuno]: anyone doing {Ninja} {guest}
+[21:53:58] Clairvoyant waves to Revii.
+[21:54:00] Nemo[PortBastok]: {Experience points} {Party} 54+ {Do you need it?} DD + Support
+[21:54:06] Vypers[PortJeuno]: {Teleport-Dem} {Can I have it?} {Reward}
+[21:54:20] Cinders[PortJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[21:54:22] Revii bows courteously to Clairvoyant.
+[21:54:41] Redmight[Kazham]: {Kazham} {Party} {Long time} {Experience points} only {Level Sync} BIG DPS + TANK {/tell} me
+[21:55:00] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[21:55:05] Filthycasual[WindWoods]: {Rank Evaluation} 2-3 {Balga's Dais} {Team up?} 4/6 need a couple of DDs
+[21:55:23] Hajime[SSandOria]: MNK38/THF15 {Please assist.} {Looking for Party}
+[21:55:37] Havok[LowJeuno]: {Teleport-Holla} {Can I have it?}
+[21:55:41] You cannot invite that person at this time.
+[21:55:42] Vypers bows courteously to Zanzah.
+[21:55:45] Zanzah bows courteously to Vypers.
+[21:55:52] Liam[SSandOria]: {Teleport-Holla} {Can I have it?} 1k {Please invite me.}
+[21:56:08] Clairvoyant waves to Havok.
+[21:56:08] (Clerie) sorry, misclick, wrong region
+[21:56:10] (Clerie) my bad
+[21:56:24] Liam>> all g
+[21:56:33] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[21:56:46] Ryshiden : Bastok Rank 2 Decurions Dagger anyone want to trade for Sandy Rank 2 item?
+[21:56:46] Kidagakash[PortJeuno]: {Teleport-Mea} {Can I have it?} {Thank you.}
+[21:56:53] Filthycasual[PortWind]: 2-3 {Balga's Dais} {Our party's full.} {Thank you.}
+[21:57:07] Sutaku[SSandOria]: {Teleport-Dem} {Can I have it?} 500g {Please invite me.}
+[21:57:07] Gakaveli[NSandOria]: {Teleport-Dem} {Can I have it?} 500g
+[21:57:27] Yahikoe[NSandOria]: aside from paying 30k is there any other way to get the three nation trees from starlight event
+[21:57:27] Lazarusultima : {Teleport-Mea} {Can I have it?} {Please invite me.}
+[21:57:41] Rynix[BastokMark]: {Ninja} {Quest} {Can I have it?} {Korroloka Tunnel} {Please invite me.}
+[21:57:43] Hardersenpai[PortJeuno]: {Teleport-Dem} {Can I have it?} 500g
+[21:58:04] Redmaiden[PortWind]: yes.  Tree = Random reward from event if you grind it
+[21:58:15] Clairvoyant waves to Hardersenpai.
+[21:58:30] [1]<Kryst> lai lai
+[21:58:40] Magnussin : {Teleport-Holla} {Can I have it?} 500g
+[21:58:49] (Clerie) hello!
+[21:58:53] Lexara : Selling Ports 500g {/tell} Holla/Dem/Mea
+[21:58:58] (Magnussin) hey thanks
+[21:58:59] Lexara : /
+[21:58:59] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[21:59:03] (Clerie) i'm in front of the mog house
+[21:59:05] You offer to trade with Magnussin.
+[21:59:13] Trade complete.
+[21:59:17] Clerie starts casting Teleport-Holla on Clerie.
+[21:59:19] (Clerie) ty!
+[21:59:23] Gendric[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g {Reward} {Please invite me.}
+[21:59:25] (Magnussin) thank you
+[21:59:26] Rem[PortJeuno]: {Teleport-Vahzl} {Can I have it?} 1k {Jeuno}
+[21:59:34] Tormund[LowJeuno]: WAR40/MNK20 {Looking for Party} {Experience points}
+[21:59:44] [1]<Google> kin rah
+[22:02:42] [Ashita] Loaded plugin: Addons version: 1.40 - by: Ashita Development Team
+[22:02:42] [Ashita] Loaded plugin: Screenshot version: 1.00 - by: Ashita Development Team
+[22:02:42] [Ashita] Loaded plugin: PacketFlow version: 1.00 - by: Thorny (Concept by Byrth)
+[22:02:42] [Ashita] Loaded plugin: Thirdparty version: 1.00 - by: Ashita Development Team
+[22:02:42] [Addons] Failed to load addon 'ibar' due to an error. Error: cannot open \addons\ibar\\ibar.lua: No such file or directory
+[22:02:42] [Addons] Failed to load addon 'imgui' due to an error. Error: cannot open \addons\imgui\\imgui.lua: No such file or directory
+[22:02:42] [Addons] Failed to load addon 'status' due to an error. Error: cannot open \addons\status\\status.lua: No such file or directory
+[22:02:42] [Ashita] Bound: (Å´) insert to: /ashita
+[22:02:42] [Ashita] Bound: (Å´) SYSRQ to: /screenshot hide
+[22:02:42] [Ashita] Bound: (Å´) Ctrl-v to: /paste
+[22:02:42] [Ashita] Bound: (Å´) F11 to: /ambient
+[22:02:42] [Ashita] Bound: (Å´) F12 to: /fps
+[22:02:42] [Ashita] Bound: (Å´) Ctrl-F1 to: /input /ta <a10>
+[22:02:42] [Ashita] Bound: (Å´) Ctrl-F2 to: /input /ta <a11>
+[22:02:42] [Ashita] Bound: (Å´) Ctrl-F3 to: /input /ta <a12>
+[22:02:42] [Ashita] Bound: (Å´) Ctrl-F4 to: /input /ta <a13>
+[22:02:42] [Ashita] Bound: (Å´) Ctrl-F5 to: /input /ta <a14>
+[22:02:42] [Ashita] Bound: (Å´) Ctrl-F6 to: /input /ta <a15>
+[22:02:42] [Ashita] Bound: (Å´) Alt-F1 to: /input /ta <a20>
+[22:02:42] [Ashita] Bound: (Å´) Alt-F2 to: /input /ta <a21>
+[22:02:42] [Ashita] Bound: (Å´) Alt-F3 to: /input /ta <a22>
+[22:02:42] [Ashita] Bound: (Å´) Alt-F4 to: /input /ta <a23>
+[22:02:42] [Ashita] Bound: (Å´) Alt-F5 to: /input /ta <a24>
+[22:02:42] [Ashita] Bound: (Å´) Alt-F6 to: /input /ta <a25>
+[22:02:42] [Ashita] Bound: (Å´) F7 to: /input /ta <bt>
+[22:02:42] [instantah] Function patched; auction results should now be instant.
+[22:02:42] [Addons] Loaded addon: dynamic_entity_renamer version: 1.0.0.0 - by: zach2good, TeoTwawki, atom0s
+[22:02:42] [Addons] Loaded addon: allmaps version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: aspect version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: checker version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: clock version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: distance version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: drawdistance version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: filterless version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: fps version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: ime version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: instantah version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: logs version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: macrofix version: 1.0 - by: atom0s & Sorien
+[22:02:42] [Addons] Loaded addon: petinfo version: 1.0 - by: atom0s & Tornac
+[22:02:42] [Addons] Loaded addon: recast version: 1.0 - by: atom0s, Thorny, RZN
+[22:02:42] [Addons] Loaded addon: simplelog version: 0.10.1b - by: Created by Byrth, Ported by Spiken
+[22:02:42] [Addons] Loaded addon: Timers version: 1.0.1 - by: The Mystic
+[22:02:42] [Addons] Loaded addon: timestamp version: 1.0 - by: atom0s
+[22:02:42] [Addons] Loaded addon: tparty version: 1.0 - by: atom0s
+[22:02:42] [SimpleLog] Loaded configuration file: config.lua
+[22:02:42] [SimpleLog] Loaded filters profile: default_filters.lua
+[22:02:42] [SimpleLog] Loaded colors profile: chat_colors.lua
+[22:02:42] === Area: Lower Jeuno ===
+[22:02:44] <<< Welcome to HorizonXI! >>>
+[22:02:44] A new adventure is just on the horizon! Please visit horizonxi.com for server information and resources.
+[22:02:44] The Starlight Celebration is active until January 7th. Thank you for being part of our community!
+[22:02:45] [1]< YewTee: Popiah >
+[22:02:45] https://discord.gg/Q6Qu4HAR (2023, Jan. 9 23:19:08)
+[22:02:45] [2]< Spira: Spongeh >
+[22:02:45] https://discord.gg/spira - Might be looking @ CoP starter stuff. Check events for next big thing! (2023, Jan. 3 22:48:27)
+[22:03:09] Marinate[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[22:03:31] [fps] Set the FPS divisor to: 1
+[22:03:33] [fps] Set the FPS divisor to: 0
+[22:03:37] [fps] Set the FPS divisor to: 1
+[22:03:37] Requisite[LowJeuno]: {Teleport-Holla} I {Can I have it?} 500g
+[22:03:44] Odysseus[LowJeuno]: WHM32/BLM16 lfg xp pst
+[22:03:48] Lili[LowJeuno]: {Teleport-Mea} {please} {Can I have it?} {You can have this.} 500g {Please invite me.}
+[22:03:51] (Clerie) hello!
+[22:03:51] Gendric[LowJeuno]: {Teleport-Mea} {Can I have it?}500g {Reward}
+[22:03:54] (Clerie) i'm in front of the mog house
+[22:04:07] (Requisite) thanks omw
+[22:04:24] Target out of range.
+[22:04:27] You offer to trade with Requisite.
+[22:04:29] Selaine[LowJeuno]: {Teleport-Altep}{please}1000g
+[22:04:39] Trade complete.
+[22:04:44] [Clerie] Teleport-Holla Å® Clerie
+[22:04:47] (Clerie) ty!
+[22:04:53] (Requisite) thank you
+[22:04:53] Midnigh[PortJeuno]: it happens every midnight game time
+[22:04:58] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} item for R3 {Windurst} item.
+[22:05:05] Clerie Teleport-Holla Å® {2}: Clerie and Requisite (Vanish)
+[22:05:24] === Area: Lower Jeuno ===
+[22:05:30] Wubz waves to Lili.
+[22:05:36] Lili bows courteously to Wubz.
+[22:05:39] Fireoldxman : 22thf/11nin {Looking for Party} {Experience points} 
+[22:05:46] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[22:05:49] Anean[LowJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[22:05:58] Megosh[LowJeuno]: Tarut:Hermit {Can I have it?} - {Tarut:Death} {Do you need it?}
+[22:05:58] (Clerie) hello!
+[22:06:02] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[22:06:02] (Clerie) I'm in front of the mog house
+[22:06:04] Eit : {Teleport-Mea} {Can I have it?} 500g
+[22:06:08] Gendric : {Teleport-Mea} {Can I have it?}500g {Reward} {Please invite me.}
+[22:06:14] (Anean) {Hello!}
+[22:06:21] Anean wishes to trade with you.
+[22:06:22] [Anjinlol] Teleport-Altep Å® Anjinlol
+[22:06:27] Trade complete.
+[22:06:30] [Clerie] Teleport-Holla Å® Clerie
+[22:06:36] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[22:06:41] Bean : everyone did
+[22:06:42] Anjinlol Teleport-Altep Å® {2}: Anjinlol and Selaine (Vanish)
+[22:06:50] Clerie Teleport-Holla Å® {2}: Clerie and Anean (Vanish)
+[22:07:00] (Clerie) ty!
+[22:07:12] === Area: Lower Jeuno ===
+[22:07:21] Lexara's casting is interrupted.
+[22:07:35] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[22:08:44] Lexara : Selling Ports Holla/Dem/Mea 500g {/tell} ^^
+[22:08:54] Samages[LowJeuno]: {Teleport-Dem} {Can I have it?}
+[22:09:02] Rynix[BastokMark]: {Ninja} {Quest} {Do you need it?} {Looking for members.}
+[22:09:13] Samages : hi
+[22:09:17] [Quinn] Teleport-Dem Å® Quinn
+[22:09:24] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[22:09:33] Laverna : {Teleport-Mea} {Can I have it?} 500g
+[22:09:37] Quinn Teleport-Dem Å® {2}: Quinn and Samages (Vanish)
+[22:09:46] Laverna waves to Bean.
+[22:10:08] Maevin : {Teleport-Dem} 500g {Can I have it?} {Thank you.}
+[22:10:20] Jazzler[LowJeuno]: RDM31/BLM15 seeking xp {Level Sync} ok! {Kazham} not!
+[22:10:23] Tahkip[LowJeuno]: {Teleport-Holla} {Can I have it?} {You can have this.} 500g
+[22:10:26] Kanye[LowJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[22:10:29] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} item for R3 {Windurst} item.
+[22:10:33] (Clerie) hello!
+[22:10:35] [Mephis] scroll of Silena Å® Mephis
+[22:10:36] (Clerie) I'm at the mog house
+[22:10:40] (Tahkip) hello
+[22:10:43] [Mephis] scroll of Barfira Å® Mephis
+[22:10:44] [1]<Google> today 30!
+[22:10:50] [1]<Google> no 30 no sleep!
+[22:10:52] [Mephis] scroll of Barsleepra Å® Mephis
+[22:10:57] Aramil waves to Kanye.
+[22:10:59] You offer to trade with Tahkip.
+[22:11:00] [Mephis] scroll of Barpoisonra Å® Mephis
+[22:11:01] [Aramil] Teleport-Holla Å® Aramil
+[22:11:01] Kanye waves to Aramil.
+[22:11:06] Trade complete.
+[22:11:08] [Mephis] scroll of Barparalyzra Å® Mephis
+[22:11:08] [Clerie] Teleport-Holla Å® Clerie
+[22:11:12] (Clerie) ty
+[22:11:16] (Tahkip) ty
+[22:11:18] Lexara[LowJeuno]: Selling TP Holla/Dem/Mea 500g {/tell} ^^
+[22:11:21] Aramil Teleport-Holla Å® {2}: Aramil and Kanye (Vanish)
+[22:11:23] Artois[LowJeuno]: WTB Black silk neckerchief - 10k PST! 
+[22:11:25] [1]<Kryst> 1 hr later u said u sleepy riao
+[22:11:28] Clerie Teleport-Holla Å® {2}: Clerie and Tahkip (Vanish)
+[22:11:40] [1]<Google> tmr WFH 
+[22:11:46] === Area: Lower Jeuno ===
+[22:11:47] [1]<Google> ._.
+[22:12:20] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[22:12:31] Nutsu invites you to join a party.
+[22:12:43] Nemo[PortJeuno]: {Experience points} {Party} {King Ranperre's Tomb} 54+ {Do you need it?} DD {Can I have it?}
+[22:12:44] (Nutsu) oh shit lol
+[22:12:48] (Clerie) lol
+[22:12:49] Ryuk[LowJeuno]: {Teleport-Dem} {Can I have it?} 500g
+[22:12:51] (Clerie) well this happens often
+[22:12:55] (Nutsu) i actualy invited one
+[22:12:59] (Clerie) alright i'll hop out
+[22:13:02] (Clerie) cya
+[22:13:24] Venusaur[PortJeuno]: {Teleport-Holla} {Can I have it?} {Reward} 300
+[22:13:35] (Clerie) hello!
+[22:13:45] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[22:13:45] (Clerie) I'm at the mog house
+[22:13:53] (Venusaur) {Hello!}
+[22:13:54] Zoricana[PortJeuno]: {Red Mage} 31 {Looking for Party} {Experience points}
+[22:13:56] [1]<Google> cb forgot do {Chocobo} quest again ~.~
+[22:13:59] Venusaur wishes to trade with you.
+[22:14:06] Trade complete.
+[22:14:07] Lexara smiles warmly at Ryuk.
+[22:14:08] [Clerie] Teleport-Holla Å® Clerie
+[22:14:08] Artois : WTB Black silk neckerchief/10k | Aspir 25k PST
+[22:14:11] (Clerie) ty!
+[22:14:12] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} item for R3 {Windurst} item.
+[22:14:13] Venusaur cheers Clerie on!
+[22:14:16] Lothan bows courteously to Bean.
+[22:14:16] (Venusaur) {Thank you.}
+[22:14:18] Venusaur bows courteously to Clerie.
+[22:14:21] Rem[LowJeuno]: {Teleport-Vahzl} {Can I have it?} 1k {Jeuno}
+[22:14:29] Clerie Teleport-Holla Å® {2}: Clerie and Venusaur (Vanish)
+[22:14:45] === Area: Lower Jeuno ===
+[22:14:51] Sigseven's casting is interrupted.
+[22:14:53] Hajime[SSandOria]: MNK38/THF15 {Please assist.} {Looking for Party}
+[22:14:53] Lexara and Coulant happily dance together.
+[22:14:58] Coulant bows.
+[22:15:00] Rynix[BastokMine]: {Ninja} {Quest} {Do you need it?} {Looking for members.} {Korroloka Tunnel}
+[22:15:08] Dalaros : {Teleport-Dem} {Can I have it?} 500g
+[22:15:24] Yoey[PortJeuno]: DRK47/THF23 {Looking for Party} ex
+[22:15:27] Anubis : {Teleport-Holla}
+[22:15:42] Snarkyhobgoblin[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[22:16:13] Estarossa[LowJeuno]: DRK41/WAR20 {Looking for Party} {Experience points} {Level Sync} 40+
+[22:16:18] Rem : {Teleport-Vahzl} {Can I have it?} 1k {Jeuno}
+[22:16:20] Alfont[LowJeuno]: WTB Gunromaru pst
+[22:16:46] [Bri] scroll of Valor Minuet II Å® Bri
+[22:16:54] [Bri] scroll of Ice Threnody Å® Bri
+[22:17:12] Laution : WTT: {Tarut:The Hermit} for any of the others
+[22:17:38] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[22:17:44] [Fishlove] Teleport-Vahzl Å® Fishlove
+[22:18:02] Nemo>> can we have holla
+[22:18:04] Fishlove Teleport-Vahzl Å® {2}: Fishlove and Rem (Vanish)
+[22:18:10] >>Nemo : sure
+[22:18:10] Nemo invites you to join a party.
+[22:18:28] (Nemo) {Gather together.} {Lower Jeuno} for holla
+[22:18:36] (Clerie) I'm in front of the mog house
+[22:18:49] Maldy[LowJeuno]: {Teleport-Mea} {Can I have it?} 500 gil
+[22:18:53] Artois[LowJeuno]: WTB Black silk neckerchief/10k | Aspir 25k PST
+[22:19:00] (Nemo) kk
+[22:19:01] [Fishlove] Teleport-Mea Å® Fishlove
+[22:19:08] (Nemo) getting signet
+[22:19:15] Fishlove's casting is interrupted.
+[22:19:16] Captain[WindWoods]: {Teleport-Altep} {Can I have it?}
+[22:19:18] Vintererella[LowJeuno]: {Teleport-Mea} {Can I have it?} {Thank you.}
+[22:19:19] Tatyova[LowJeuno]: {Teleport-Mea} {Can I have it?}
+[22:19:24] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} for R3 {Windurst} CP item.
+[22:19:40] Tatyova cheers Bean on!
+[22:19:44] [Bean] Teleport-Mea Å® Bean
+[22:19:46] [Fishlove] Teleport-Mea Å® Fishlove
+[22:19:57] Bramdt[LowJeuno]: WTB {Teleport-Mea} 500 gil. {Please assist.} {Thank you.}
+[22:20:01] Chillsta {Teleport-Mea} {Can I have it?} 500g
+[22:20:04] Bean Teleport-Mea Å® {2}: Bean and Tatyova (Vanish)
+[22:20:06] Fishlove Teleport-Mea Å® {2}: Fishlove and Maldy (Vanish)
+[22:20:07] Clyntazo[LowJeuno]: {Teleport-Holla} {Can I have it?} /tell
+[22:20:17] Lordbright[LowJeuno]: Bright Taxi's Mea, Dem, Holla. want a Bright travel /t 500gil {Thank you.}
+[22:20:21] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[22:20:25] Chillsta : {Teleport-Mea} {Can I have it?} 500g
+[22:20:26] Captain[PortWind]: {Teleport-Altep} {Can I have it?}
+[22:20:37] (Clerie) do you guys mind inviting me once everyone is in jeuno? might take a while from sandoria to jeuno
+[22:20:42] [Fishlove] Teleport-Mea Å® Fishlove
+[22:20:50] Eire[PortJeuno]: Anybody want to farm {Maze of Shakhrami} for RSE chest key?
+[22:21:00] Chillsta bows courteously to Fishlove.
+[22:21:02] (Nemo) just me
+[22:21:02] Fishlove Teleport-Mea Å® {2}: Fishlove and Chillsta (Vanish)
+[22:21:05] (Clerie) oh okay
+[22:21:16] (Clerie) I'm at the mog house entrance
+[22:21:24] Rokudan[LowJeuno]: LF {Samurai} NM {Fight} (both)
+[22:21:32] Badbeat[LowJeuno]: {Teleport-Dem} {Can I have it?} 500g {/tell}
+[22:21:34] You offer to trade with Nemo.
+[22:21:37] Relic[LowJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[22:21:43] Trade complete.
+[22:22:00] (Clerie) am i disconnecting
+[22:25:09] [Ashita] Loaded plugin: Addons version: 1.40 - by: Ashita Development Team
+[22:25:09] [Ashita] Loaded plugin: Screenshot version: 1.00 - by: Ashita Development Team
+[22:25:09] [Ashita] Loaded plugin: PacketFlow version: 1.00 - by: Thorny (Concept by Byrth)
+[22:25:09] [Ashita] Loaded plugin: Thirdparty version: 1.00 - by: Ashita Development Team
+[22:25:09] [Addons] Failed to load addon 'ibar' due to an error. Error: cannot open \addons\ibar\\ibar.lua: No such file or directory
+[22:25:09] [Addons] Failed to load addon 'imgui' due to an error. Error: cannot open \addons\imgui\\imgui.lua: No such file or directory
+[22:25:09] [Addons] Failed to load addon 'status' due to an error. Error: cannot open \addons\status\\status.lua: No such file or directory
+[22:25:09] [Ashita] Bound: (Å´) insert to: /ashita
+[22:25:09] [Ashita] Bound: (Å´) SYSRQ to: /screenshot hide
+[22:25:09] [Ashita] Bound: (Å´) Ctrl-v to: /paste
+[22:25:09] [Ashita] Bound: (Å´) F11 to: /ambient
+[22:25:09] [Ashita] Bound: (Å´) F12 to: /fps
+[22:25:09] [Ashita] Bound: (Å´) Ctrl-F1 to: /input /ta <a10>
+[22:25:09] [Ashita] Bound: (Å´) Ctrl-F2 to: /input /ta <a11>
+[22:25:09] [Ashita] Bound: (Å´) Ctrl-F3 to: /input /ta <a12>
+[22:25:09] [Ashita] Bound: (Å´) Ctrl-F4 to: /input /ta <a13>
+[22:25:09] [Ashita] Bound: (Å´) Ctrl-F5 to: /input /ta <a14>
+[22:25:09] [Ashita] Bound: (Å´) Ctrl-F6 to: /input /ta <a15>
+[22:25:09] [Ashita] Bound: (Å´) Alt-F1 to: /input /ta <a20>
+[22:25:09] [Ashita] Bound: (Å´) Alt-F2 to: /input /ta <a21>
+[22:25:09] [Ashita] Bound: (Å´) Alt-F3 to: /input /ta <a22>
+[22:25:09] [Ashita] Bound: (Å´) Alt-F4 to: /input /ta <a23>
+[22:25:09] [Ashita] Bound: (Å´) Alt-F5 to: /input /ta <a24>
+[22:25:09] [Ashita] Bound: (Å´) Alt-F6 to: /input /ta <a25>
+[22:25:09] [Ashita] Bound: (Å´) F7 to: /input /ta <bt>
+[22:25:09] [instantah] Function patched; auction results should now be instant.
+[22:25:09] [Addons] Loaded addon: dynamic_entity_renamer version: 1.0.0.0 - by: zach2good, TeoTwawki, atom0s
+[22:25:09] [Addons] Loaded addon: allmaps version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: aspect version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: checker version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: clock version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: distance version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: drawdistance version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: filterless version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: fps version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: ime version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: instantah version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: logs version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: macrofix version: 1.0 - by: atom0s & Sorien
+[22:25:09] [Addons] Loaded addon: petinfo version: 1.0 - by: atom0s & Tornac
+[22:25:09] [Addons] Loaded addon: recast version: 1.0 - by: atom0s, Thorny, RZN
+[22:25:09] [Addons] Loaded addon: simplelog version: 0.10.1b - by: Created by Byrth, Ported by Spiken
+[22:25:09] [Addons] Loaded addon: Timers version: 1.0.1 - by: The Mystic
+[22:25:09] [Addons] Loaded addon: timestamp version: 1.0 - by: atom0s
+[22:25:09] [Addons] Loaded addon: tparty version: 1.0 - by: atom0s
+[22:25:09] [fps] Set the FPS divisor to: 1
+[22:25:09] [SimpleLog] Loaded configuration file: config.lua
+[22:25:09] [SimpleLog] Loaded filters profile: default_filters.lua
+[22:25:09] [SimpleLog] Loaded colors profile: chat_colors.lua
+[22:25:09] === Area: Lower Jeuno ===
+[22:25:10] <<< Welcome to HorizonXI! >>>
+[22:25:10] A new adventure is just on the horizon! Please visit horizonxi.com for server information and resources.
+[22:25:10] The Starlight Celebration is active until January 7th. Thank you for being part of our community!
+[22:25:11] [1]< YewTee: Popiah >
+[22:25:11] https://discord.gg/Q6Qu4HAR (2023, Jan. 9 23:19:08)
+[22:25:11] [2]< Spira: Spongeh >
+[22:25:11] https://discord.gg/spira - Might be looking @ CoP starter stuff. Check events for next big thing! (2023, Jan. 3 22:48:27)
+[22:25:22] >> /tell Nemo
+[22:25:22] ...A command error occurred.
+[22:25:25] >>Nemo : hello
+[22:25:28] Nemo invites you to join a party.
+[22:25:29] [Bean] Teleport-Mea Å® Bean
+[22:25:38] Lexara[LowJeuno]: Selling Portals Holla/Dem/Mea 500g {/tell} ^^
+[22:25:41] [Clerie] Teleport-Holla Å® Clerie
+[22:25:45] (Clerie) so sorry about that
+[22:25:48] (Clerie) disconnected
+[22:25:49] Bean Teleport-Mea Å® {5}: Bean, Relic, Badbeat, Jaybe, and Grifith (Vanish)
+[22:25:49] Artois[LowJeuno]: WTB Black silk neckerchief 10k/ Aspir 25k. PST
+[22:25:54] (Therin) so did Nemo
+[22:25:56] Captain : {Teleport-Altep} {Can I have it?}
+[22:25:58] (Therin) it looks like Jeuno crashed
+[22:26:01] Clerie Teleport-Holla Å® Clerie (Vanish)
+[22:26:01] (Nemo) back
+[22:26:10] (Clerie) ah okay
+[22:26:12] (Clerie) unfortunate
+[22:26:17] (Therin) Jeuno seems buggy this morning, it crashed on me earlier
+[22:26:22] === Area: Lower Jeuno ===
+[22:26:30] [Clerie] Teleport-Holla Å® Clerie
+[22:26:39] Captain[LowJeuno]: {Teleport-Altep} {Can I have it?}
+[22:26:42] (Therin) Greencrack is back, Nemo
+[22:26:45] (Therin) he d/ced too
+[22:26:46] Magnussin : {Teleport-Holla} {Can I have it?} 500g
+[22:26:47] (Clerie) the teleport didn't go through lol
+[22:26:47] (Nemo) kk
+[22:26:50] Clerie's casting is interrupted.
+[22:26:54] (Nemo) lool
+[22:26:54] (Clerie) i'll cast it again
+[22:26:57] [Clerie] Teleport-Holla Å® Clerie
+[22:27:06] Nas : {Teleport-Altep} {Can I have it?} 500
+[22:27:12] Hakon[PortJeuno]: {Teleport-Dem} {Can I have it?} {please} {You can have this.} 500g pls invite me
+[22:27:17] Clerie Teleport-Holla Å® {2}: Clerie and Nemo (Vanish)
+[22:27:20] (Therin) Horizon servers seem to work great once you're out in the world XPing
+[22:27:30] Lili[WindWaters]: {Windurst} {Teleport-Holla} {please} {Can I have it?} {You can have this.} 500g {Please invite me.}
+[22:27:33] (Clerie) alright, that seems to have gone through
+[22:27:34] (Clerie) ty!
+[22:27:39] (Therin) Last night I got black screen 4/5 times zoning in Sandy
+[22:27:47] === Area: Lower Jeuno ===
+[22:27:52] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} for a R3 {Windurst} CP item
+[22:27:53] Laution : WTT: {Tarut:The Hermit} for any others
+[22:28:03] Hakon bows courteously to Kazuri.
+[22:28:08] Madmartigan[LowJeuno]: {Can I have it?} {Teleport-Dem} 500g {Reward}
+[22:28:13] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[22:28:17] Your 'Fire crystal' has sold to Kodachi for 1999 gil!
+[22:28:23] Bluedragon : {Teleport-Holla} {Can I have it?} {Reward:}500g
+[22:28:31] Tribal[LowJeuno]: {Teleport-Dem} {Can I have it?} 500gil {You can have this.}
+[22:28:32] (Clerie) hello!
+[22:28:34] [Sam] lightning cluster Å® Sam
+[22:28:37] (Clerie) I'm right in front of the mog house
+[22:28:39] (Bluedragon) hey :)
+[22:28:40] [Sam] lightning cluster Å® Sam
+[22:28:42] Lucio's casting is interrupted.
+[22:28:42] Kita[PortJeuno]: AF2 {Do you need it?} {Looking for members.} x1-2 DD Help w/mine I help w/yours <3 {/tell}
+[22:28:50] Bluedragon wishes to trade with you.
+[22:28:51] Cleubond[SSandOria]: anyone free to help {Ghelsba Outpost} coffer key?
+[22:28:54] Trade complete.
+[22:28:57] [Clerie] Teleport-Holla Å® Clerie
+[22:28:59] Bluedragon bows courteously to Clerie.
+[22:29:01] (Clerie) ty!
+[22:29:07] Laution : WTT: {Tarut:The Hermit} for any others
+[22:29:08] [Quinn] Teleport-Holla Å® Quinn
+[22:29:09] Khettu[BastokMine]: Teleport Mea/Dem/Holla 500g Altep/Yhoat 1000g {Do you need it?} /tell ^^/
+[22:29:17] Bigdaddy[LowJeuno]: Beaudeux 4-1 NM {Do you need it?} {/tell} @1/??
+[22:29:17] Clerie Teleport-Holla Å® {2}: Clerie and Bluedragon (Vanish)
+[22:29:31] Koinzell[PortJeuno]: PLD24/WAR12 LFP {Experience points} {Can I have it?}
+[22:29:35] === Area: Lower Jeuno ===
+[22:29:56] Villiara[SSandOria]: any groups doing dragooon job boss quest?t
+[22:30:02] [Hotdogz] Teleport-Holla Å® Hotdogz
+[22:30:04] Dog : {Teleport-Altep} {Can I have it?} 1k
+[22:30:07] Clyntazo[LowJeuno]: {Teleport-Holla} {Can I have it?} /yell
+[22:30:09] [Botchla] Mage's Ballad Å® Botchla
+[22:30:15] Teensy[UpJeuno]: 25 WHM/BLM {Looking for Party} {Level Sync} 21+ {Please invite me.}
+[22:30:17] Botchla Mage's Ballad Å® {2}: Botchla and Hotdogz (Ballad)
+[22:30:19] Rynix[BastokMine]: {Ninja} {Quest} {Do you need it?} {Looking for members.} {Korroloka Tunnel}
+[22:30:20] (Clerie) hello!
+[22:30:20] (Clyntazo) hey!
+[22:30:21] Hotdogz Teleport-Holla Å® {2}: Hotdogz and Botchla (Vanish)
+[22:30:26] (Clerie) I'm in front of the mog house
+[22:30:32] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[22:30:33] (Clyntazo) lemme just grab signet rq
+[22:30:41] Mew : {Teleport-Mea} {Can I have it?}
+[22:30:43] (Clerie) sure
+[22:30:47] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell}
+[22:30:52] (Clerie) 500g okay with you?
+[22:30:53] Evelon[PortJeuno]: {Gate Breach} {Garlaige Citadel} {Can I have it?} {Please assist.} 1/4
+[22:31:07] Blankets : {Teleport-Mea} {Can I have it?} {Please invite me.}
+[22:31:07] Minwu synthesized a slice of salted hare.
+[22:31:12] Lordbright[LowJeuno]: Bright Taxi - Mea, Dem & holla. have a Bright travel~ /tll 500 gil
+[22:31:14] (Clyntazo) yeye
+[22:31:15] Chillsta : {Teleport-Mea} {Can I have it?} 500g
+[22:31:22] Lordbright : .sea all chill
+[22:31:37] Search result: 2 people found in all known areas.
+[22:31:39] Diesel : {Teleport-Dem} {Please invite me.} 500g
+[22:31:55] Rygo[BastokMark]: WTB {Teleport-Dem} pst
+[22:32:08] Kaddis[LowJeuno]: PLD49/WAR24 {Looking for Party} {Experience points}
+[22:32:10] Laution : WTT: {Tarut:The Hermit} for any others
+[22:32:25] Alessa[PortJeuno]: 67smn {Looking for Party}
+[22:32:27] Tenken[PortJeuno]: LFG or help with LB1 item, Exoray Mold
+[22:32:28] Search result: 6 people found in all known areas.
+[22:32:40] Lordbright bows courteously to Diesel.
+[22:32:49] Minwu : {Beadeaux} NM De'Vyu Headhunter for 4-1 {Help me out!}
+[22:32:49] You offer to trade with Clyntazo.
+[22:32:57] Trade complete.
+[22:32:58] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} for a R3 {Windurst} CP item
+[22:33:00] [Clerie] Teleport-Holla Å® Clerie
+[22:33:01] (Clerie) ty!
+[22:33:07] (Clyntazo) tyty!
+[22:33:14] Artois[LowJeuno]: WTB Black silk neckerchief 10k/ Aspir 25k. PST
+[22:33:16] Heysiri[LowJeuno]: Holla,Dem,Mea,Altep,Yhoat - Taxi {Do you need it?}  ^.^
+[22:33:20] Clerie Teleport-Holla Å® {2}: Clerie and Clyntazo (Vanish)
+[22:33:39] === Area: Lower Jeuno ===
+[22:33:41] Brendino[PortJeuno]: {Teleport-Holla} {Can I have it?} {Reward:} 500g {Thank you.}
+[22:33:44] Kensino[BastokMine]: WTB {Freeze} PST
+[22:33:44] Lordbright bows courteously to Fluff.
+[22:33:45] Mental : WTB {Teleport-Mea} 500g {Thank you.}
+[22:33:45] You cannot invite that person at this time.
+[22:33:58] Redmaiden[PortWind]: WHM25/RDM12 {Looking for Party} {Exemplar Points} {Long time} {Thank you.}
+[22:34:03] Mental waves to Kazuri.
+[22:34:09] Cleubond[SSandOria]: anyone free to help {Ghelsba Outpost} chest key?
+[22:34:37] Bigdaddy[LowJeuno]: {Beadeaux} 4-1 NM {Do you need it?} {/tell} @3/??
+[22:34:54] Tenken[LowJeuno]: LFM LB1 item Exoray Mold, 2/6 party
+[22:35:00] Rekuza[SSandOria]: WTS {Emperor Hairpin} pst with offer^^
+[22:35:12] Kluya[PortJeuno]: WHM56/BLM28 lfg Dark Spark / WHM AF Body / Mission 5-1
+[22:35:20] Lili[LowJeuno]: {Teleport-Holla} {please} {Can I have it?} {You can have this.} 500g {Please invite me.}
+[22:35:26] Damyan[UpJeuno]: {Teleport-Dem} {Can I have it?} 500g {/tell}
+[22:35:28] (Clerie) hello!
+[22:35:31] (Clerie) I'm in front of the mog house
+[22:35:34] (Lili) {Hello!}
+[22:35:40] Lili wishes to trade with you.
+[22:35:44] Trade complete.
+[22:35:47] [Clerie] Teleport-Holla Å® Clerie
+[22:35:50] Gazaroth[WindWoods]: {Dark Knight} {Artifact} weapon NM {Giddeus} {Do you need it?} {Please assist.} {Looking for members.}
+[22:35:51] (Clerie) ty!
+[22:35:57] Goodrats : {Teleport-Yhoat} {Can I have it?} 500g
+[22:35:58] (Lili) {Thank you.}
+[22:35:59] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 2/?
+[22:36:07] Clerie Teleport-Holla Å® {2}: Clerie and Lili (Vanish)
+[22:36:24] === Area: Lower Jeuno ===
+[22:36:27] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Sem & holla. /t 500 gil
+[22:36:28] [Sam] lightning cluster Å® Sam
+[22:36:43] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[22:36:47] Eire[LowJeuno]: {Teleport-Dem} {Can I have it?} {please} 500g
+[22:36:55] Bitesized[RuLudeGard]: {Teleport-Holla} {Can I have it?} 500g
+[22:36:57] Notmygrandma : {Teleport-Mea} {Can I have it?} 500g
+[22:37:06] Tyrese[LowJeuno]: {Looking for members.}  Exoray Mold  {Crawlers' Nest} 
+[22:37:18] Laution : WTT: {Tarut:The Hermit} for Death or King
+[22:37:20] Goodrats : {Teleport-Yhoat} {Can I have it?} 500g
+[22:37:26] [fps] Set the FPS divisor to: 0
+[22:37:42] Crihten[LowJeuno]: {Teleport-Dem} {Can I have it?} {Reward} 500gil
+[22:37:43] Hideki : {Teleport-Holla} {Please assist.} 500g
+[22:37:47] [fps] Set the FPS divisor to: 1
+[22:37:51] (Clerie) hello!
+[22:37:57] (Hideki) {Hello!}
+[22:37:59] Rigsby's casting is interrupted.
+[22:38:02] Target out of range.
+[22:38:03] You offer to trade with Hideki.
+[22:38:10] Trade complete.
+[22:38:12] [Clerie] Teleport-Holla Å® Clerie
+[22:38:15] (Clerie) ty!
+[22:38:27] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[22:38:29] Liones synthesized 33 bone arrows.
+[22:38:32] Clerie Teleport-Holla Å® {2}: Clerie and Hideki (Vanish)
+[22:38:49] === Area: Lower Jeuno ===
+[22:39:03] Holdmybeer[WindWoods]: WTB {Bone Subligar +1}{Reward:}10k
+[22:39:18] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[22:39:34] Heysiri[LowJeuno]: Holla,Dem,Mea,Altep,Yhoat - Taxi {Do you need it?}  ^.^
+[22:39:42] Xanatose[BastokMark]: pfft 2k for a stack of fire crystals and some of ya'll wonder why everything so expensive look in the mirror 
+[22:39:46] Army : {Teleport-Altep} {Can I have it?} {Reward:} 500g
+[22:39:48] Wookienip[PortJeuno]: Mea, Dem, Holla, Yhoat & Altep! PST for tele! 
+[22:39:56] [fps] Set the FPS divisor to: 0
+[22:40:17] Hajime[UpJeuno]: MNK38/THF15 {Looking for Party} {Please assist.}
+[22:40:28] Gendric[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g {Reward}
+[22:40:28] Tenken[LowJeuno]: LFM LB1 item Exoray Mold, 3/6 party
+[22:40:32] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} for a R3 {Windurst} CP item
+[22:40:39] Tsuim : {Teleport-Yhoat} {Can I have it?} {please} 500g
+[22:40:44] Kita[PSandOria]: AF2 @ {Fei'Yin} {Do you need it?} {/tell} 
+[22:40:44] Liones synthesized 33 bone arrows.
+[22:41:24] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 2/?
+[22:41:37] Tsuim : {Teleport-Yhoat} {Can I have it?} {please} 500g
+[22:41:42] Crihten : {Teleport-Dem} {Can I have it?} 500gil
+[22:41:56] Artois : {Teleport-Dem} {Can I have it?} {Please assist.}
+[22:42:08] Tyrese[LowJeuno]: LFM EXORAY LB1 {Crawlers' Nest}
+[22:42:22] Edouart[PSandOria]: {Teleport-Mea} {Can I have it?}
+[22:42:24] [Quinn] Teleport-Dem Å® Quinn
+[22:42:41] Gendric waves to Rigsby.
+[22:42:45] Quinn Teleport-Dem Å® {2}: Quinn and Artois (Vanish)
+[22:42:47] Snarkyhobgoblin[UpJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[22:42:50] Sintruli[LowJeuno]: {Teleport-Vahzl} {I'm interested.} 1k {You can have this.}
+[22:42:53] Gendric bows courteously to Rigsby.
+[22:42:55] Rigsby bows.
+[22:43:00] [Jolie] Teleport-Holla Å® Jolie
+[22:43:16] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[22:43:16] You must wait longer to perform that action.
+[22:43:19] Laution : WTT: {Tarut:The Hermit} for Death or King
+[22:43:20] Jolie Teleport-Holla Å® Jolie (Vanish)
+[22:43:21] Tsuim[PortJeuno]: {Teleport-Yhoat} {Can I have it?} 1k
+[22:43:24] Fahros[LowJeuno]: {Teleport-Dem} {Can I have it?} {Please invite me.} {Reward:} 500g
+[22:43:34] Buttma psychs up along with Fahros!
+[22:43:49] Bigdaddy[LowJeuno]: {Beadeaux} 4-1 NM {Do you need it?} {/tell} @4/??
+[22:43:49] Prof[PortJeuno]: WTB Amemet Skin and {Archer's Ring} pst
+[22:44:14] Chillsta : {Teleport-Holla} {Can I have it?} 500g {Please invite me.}
+[22:44:21] Sintruli : {Teleport-Vahzl} {I'm interested.} /t
+[22:44:23] Nyin[PortJeuno]: Need healer or tank for help in DRK af quest {Looking for members.}
+[22:44:27] Heysiri[LowJeuno]: Holla,Dem,Mea,Altep,Yhoat - Taxi {Do you need it?}  ^.^
+[22:44:32] [fps] Set the FPS divisor to: 1
+[22:44:44] Pancrazio[UpJeuno]: {Teleport-Holla} {Can I have it?}
+[22:44:53] Chillsta>> party menu is bugged
+[22:44:59] >>Chillsta : i'll rezone
+[22:45:10] (Pancrazio) yo
+[22:45:14] === Area: Lower Jeuno ===
+[22:45:17] (Clerie) hello!
+[22:45:18] (Chillsta) yo!?
+[22:45:21] Trogdor[Kazham]: 72 SMN {Looking for Party} {I want experience points.}
+[22:45:27] (Clerie) i don't see chillsta in the party list lol
+[22:45:33] (Clerie) bugged?
+[22:45:40] Chillsta>> reinvite, i guess
+[22:45:49] Lexara : Selling Ports Holla/Dem/Mea 500g {/tell} ^^
+[22:45:53] Prof : {Teleport-Holla} {Can I have it?} 500
+[22:45:53] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[22:45:53] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} for a R3 {Windurst} CP item
+[22:45:56] >>Chillsta : invited
+[22:46:04] Chillsta>> accepted
+[22:46:05] Supa : {Teleport-Mea} 500g {Can I have it?}
+[22:46:07] Chillsta>> lemme rezone too
+[22:46:09] >>Chillsta : hmm, still don't see you
+[22:46:13] >>Chillsta : i'll send pancrazio off first
+[22:46:14] Your tell was not received. The recipient is either offline or changing areas.
+[22:46:16] (Clerie) i'll tp you first pan
+[22:46:17] Teck[PortJeuno]: 50 THF / 42 WAR / 25 NIN {Looking for Party}
+[22:46:21] Sintruli : {Teleport-Vahzl} {I'm interested.} /t
+[22:46:22] (Clerie) I'm at the mog house
+[22:46:28] Ueshiba : {Teleport-Holla} {Can I have it?} {Thank you.}
+[22:46:40] (Clerie) hello!
+[22:46:42] Dios[PortJeuno]: {Teleport-Mea}pls
+[22:46:42] (Ueshiba) {Hello!}
+[22:46:43] You offer to trade with Pancrazio.
+[22:46:46] [2]<Mafus> T. Treant
+[22:46:48] (Clerie) I'm at the mog house
+[22:46:54] [2]<Mafus> Passhow Marshlands O.o (E-5)
+[22:46:54] Trade complete.
+[22:46:54] Ashaman[BastokMine]: no
+[22:46:57] You offer to trade with Ueshiba.
+[22:46:58] Dufer[PortJeuno]: WTB {Teleport-Vahzl} {please}
+[22:47:03] Mew[LowJeuno]: {Teleport-Mea} {Can I have it?}
+[22:47:08] Altwight : {Teleport-Dem} {Can I have it?} 500
+[22:47:09] Sunshine[LowJeuno]: WHM 59 BLM 21 {Looking for Party}
+[22:47:12] Trade complete.
+[22:47:15] [Clerie] Teleport-Holla Å® Clerie
+[22:47:16] Dios : .cm p
+[22:47:21] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 2/?
+[22:47:25] (Ueshiba) can i have protect too please :D?
+[22:47:28] Clyntazo[UpJeuno]: {Teleport-Holla} {Can I have it?} /yell
+[22:47:31] [2]<Saltysam> you got a link to the spreadsheet?
+[22:47:32] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[22:47:33] (Clerie) sure
+[22:47:35] Clerie's casting is interrupted.
+[22:47:38] [Clerie] Protectra II Å® Clerie
+[22:47:39] [2]<Mafus> naw
+[22:47:40] (Ueshiba)  /bow
+[22:47:42] Clerie Protectra II Å® {3}: Clerie, Pancrazio, and Ueshiba (Protect)
+[22:47:44] Moonvessal synthesized a chunk of sweet lizard.
+[22:47:44] Ueshiba bows courteously to Clerie.
+[22:47:48] [Rave] wind cluster Å® Rave
+[22:47:48] [Clerie] Teleport-Holla Å® Clerie
+[22:47:48] [2]<Mafus> where's it at?
+[22:47:51] [Rave] wind cluster Å® Rave
+[22:47:52] (Ueshiba) {Thank you.} :D
+[22:47:55] [Rave] wind cluster Å® Rave
+[22:47:58] [Rave] wind cluster Å® Rave
+[22:47:59] Ratbugasti[WindWoods]: {Teleport-Holla} {Can I have it?} 500g
+[22:48:01] [Rave] wind cluster Å® Rave
+[22:48:01] [Addons] Addon 'simplelog' encountered an error during an event callback 'packet_in'. Error: ...\HorizonXI\Game\\addons\simplelog\lib\packethandlers.lua:293: attempt to concatenate field 'owner_name' (a nil value)
+stack traceback:
+	...\HorizonXI\Game\\addons\simplelog\lib\packethandlers.lua: in function 'HandleIncomingPacket'
+	...orizonXI\HorizonXI\Game\\addons\simplelog\\simplelog.lua:61: in function <...orizonXI\HorizonXI\Game\\addons\simplelog\\simplelog.lua:60>
+[22:48:01] [Addons] Unloaded addon: simplelog
+[22:48:05] [2]<Saltysam> Discord ID?
+[22:48:19] [1]<Google> 1 more level !
+[22:48:23] (Clerie) ty!
+[22:48:29] [2]<Mafus> Mafus #5938
+[22:48:34] === Area: Lower Jeuno ===
+[22:48:36] [1]<Kryst> brd ah brd
+[22:48:46] Moonvessal synthesized a chunk of sweet lizard.
+[22:48:48] (Clerie) there we go
+[22:48:51] You offer to trade with Chillsta.
+[22:48:51] Chillsta wishes to trade with you.
+[22:49:00] Trade complete.
+[22:49:03] Clerie starts casting Teleport-Holla on Clerie.
+[22:49:04] (Clerie) ty!
+[22:49:05] (Chillsta) crashed after zone
+[22:49:13] (Clerie) horizon moment
+[22:49:15] Supa cheers Rigsby on!
+[22:49:15] Moonvessal synthesized a chunk of sweet lizard.
+[22:49:17] Dufer[LowJeuno]: {Teleport-Vahzl} {Can I have it?} {please}
+[22:49:18] (Clerie) holla right?
+[22:49:19] Dacroman bows courteously to Lexara.
+[22:49:22] Lexara smiles warmly at Dacroman.
+[22:49:25] (Chillsta) yea
+[22:49:32] Truetitan[SSandOria]: {sub} {Job} {Item} {Can I have it?} {Help me out!} WHM18 {Please assist.} {Thank you.} /tell
+[22:49:34] (Clerie) ty!
+[22:49:45] === Area: Lower Jeuno ===
+[22:49:47] Villiara[NSandOria]: LF4M (Healer and DPS) for Dragoon quest.
+[22:49:52] Lee[BastokMine]: good solo lvl spot for mnk 29? 
+[22:49:52] Moonvessal synthesized a chunk of sweet lizard.
+[22:49:58] Chem bows courteously to Quinn.
+[22:50:00] Bunny[LowJeuno]: {Teleport-Vahzl} {Can I have it?} 1k
+[22:50:01] Clerie[LowJeuno]: {Teleport-Holla} {Do you need it?} 500g /tell
+[22:50:18] Sei[LowJeuno]: BST44/THF22 lfg - bst burn 
+[22:50:20] Djlovedrop>> {Teleport-Holla}
+[22:50:22] [2]<Saltysam> i'm discord illiterate
+[22:50:29] Kita[LowJeuno]: {Teleport-Vahzl} x3 5k {Reward} {/tell}
+[22:50:32] You cannot invite that person at this time.
+[22:50:34] (Clerie) hello!
+[22:50:41] (Clerie) I'm in front of the mog house
+[22:50:58] Turban[WindWoods]: {Teleport-Dem} {Can I have it?}
+[22:51:22] [2]<Mafus> haha me too
+[22:51:28] Clerie waves to Djlovedrop.
+[22:51:31] Target out of range.
+[22:51:33] Target out of range.
+[22:51:33] Target out of range.
+[22:51:34] You offer to trade with Djlovedrop.
+[22:51:35] Lexara : Selling Ports Holla/Dem/Mea 500g {/tell} ^^
+[22:51:39] Evelon[PortJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[22:51:43] Trade complete.
+[22:51:45] Clerie starts casting Teleport-Holla on Clerie.
+[22:51:49] Dufer : WTB {Teleport-Vahzl} {please}
+[22:51:50] (Clerie) ty!
+[22:51:57] [2]<Saltysam> pinged you on official discord
+[22:52:07] Husbandkiller[WindWoods]: {Teleport-Dem} {Can I have it?} {Reward:} 500g
+[22:52:12] [2]<Teshlor> eh?
+[22:52:20] [2]<Silverhand> wah?
+[22:52:21] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[22:52:24] === Area: Lower Jeuno ===
+[22:52:30] [2]<Mafus> got it
+[22:52:39] Gaffgarion[PortJeuno]: WTT R3 {San d'Oria} for a R3 {Windurst} CP item
+[22:52:47] Sintruli[LowJeuno]: {Teleport-Vahzl} {I'm interested.} 1k {You can have this.}
+[22:52:54] Rigsby bows courteously to Kixx.
+[22:53:00] Molo : {Teleport-Holla} {Can I have it?} {/tell} 500g
+[22:53:03] You cannot invite that person at this time.
+[22:53:07] Prox : {Teleport-Holla}500g {Please invite me.}
+[22:53:12] You cannot invite that person at this time.
+[22:53:14] [fps] Set the FPS divisor to: 0
+[22:53:21] Swindler[LowJeuno]: WTB gold beastcoins & gold ore 5k ea pst
+[22:53:21] Lexara waves to Questly.
+[22:53:24] Sintruli salutes Prox.
+[22:53:26] [2]<Mafus> added it
+[22:53:31] Heaph[PortJeuno]: {Teleport-Vahzl} {Can I have it?} {Reward}
+[22:53:36] Prox pokes Sintruli.
+[22:53:46] Emm[SSandOria]: Tele Dem/Holla/Mea {Do you need it?} - 500G - /tell ^^
+[22:53:47] [2]<Mafus> well updated lol
+[22:53:48] Sintruli : {Teleport-Vahzl} {I'm interested.} 1k {You can have this.}
+[22:53:48] Hogarth[NSandOria]: is {Teleport-Yhoat} scroll {Quest} Japan midnight wait time in {Northern San d'Oria}?
+[22:54:18] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 2/?
+[22:55:09] Cinnisbellum[LowJeuno]: Paying {Thief} with {Treasure Hunter} 2 fot {Teleport-Yhoat} Marble drop help 
+[22:55:24] Underdawg[RuLudeGard]: is there a maint in 5 mins pst?
+[22:55:28] Maridonia : {Teleport-Holla} {Can I have it?} 500g
+[22:55:34] (Clerie) hello!
+[22:55:37] [fps] Set the FPS divisor to: 1
+[22:55:38] Maridonia wishes to trade with you.
+[22:55:39] Juster[PortJeuno]: no
+[22:55:41] (Maridonia) hello :)
+[22:55:42] Sintruli : {Teleport-Vahzl} {I'm interested.} 1k {You can have this.}
+[22:55:45] Trade complete.
+[22:55:46] Villiara[NSandOria]: LF4M (Healer and DPS) for Dragoon quest.
+[22:55:47] Clerie starts casting Teleport-Holla on Clerie.
+[22:55:50] (Clerie) ty!
+[22:55:52] (Maridonia) ty :)
+[22:55:52] Kita bows courteously to Fishlove.
+[22:55:58] Maridonia bows courteously to Clerie.
+[22:56:02] Statiko : WTB {Teleport-Dem} 500g
+[22:56:16] Nyin[PortJeuno]: {Looking for members.} any job to help kill nm for drk AF {Quest}
+[22:56:24] === Area: Lower Jeuno ===
+[22:56:32] [fps] Set the FPS divisor to: 0
+[22:56:35] Rose[PortJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[22:56:40] Maridonia>> {Take care.}!
+[22:56:41] Snarkyhobgoblin bows courteously to Phish.
+[22:56:43] Snarkyhobgoblin cheers Phish on!
+[22:56:43] (Clerie) hello!
+[22:56:47] (Clerie) I'm at the mog house entrance
+[22:56:48] Sintruli bows courteously to Fishlove.
+[22:56:48] [fps] Set the FPS divisor to: 1
+[22:56:51] Booster : {Teleport-Dem} {Can I have it?} 500g
+[22:56:58] >>Maridonia : thank you!
+[22:56:59] Metallica : Testing {Teleport-Holla} 500g
+[22:57:19] Rose wishes to trade with you.
+[22:57:23] Eremor[BastokMine]: WHM33/BLM16 {Looking for Party} {Experience points} {Please invite me.}
+[22:57:25] Trade complete.
+[22:57:27] Lexara : Selling TP Holla/Dem/Mea {/tell} ^^
+[22:57:27] Clerie starts casting Teleport-Holla on Clerie.
+[22:57:29] (Clerie) ty!
+[22:57:33] Rigsby's casting is interrupted.
+[22:57:59] Coffin[UpJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[22:58:06] You cannot invite that person at this time.
+[22:58:12] === Area: Lower Jeuno ===
+[22:58:30] Flacko[WindWaters]: {Teleport-Holla} {Can I have it?} {please}
+[22:58:55] Nyin bows courteously to Lexara.
+[22:59:59] [fps] Set the FPS divisor to: 0
+[23:00:00] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 3/?
+[23:00:01] Izual[BastokMark]: {Teleport-Dem} in {Bastok} {Can I have it?}
+[23:00:52] Ogmaa : {Teleport-Holla} {Can I have it?} 500g {You can have this.}
+[23:00:52] Taruminator fumes.
+[23:00:53] Sunshine[LowJeuno]: {Looking for members.} Tank 53 sync {Experience points} {Party}
+[23:00:55] Trainwreck[RuLudeGard]: {Kuftal Tunnel} {Party} 53 sync LF tank 4/6
+[23:00:58] (Clerie) hello!
+[23:00:59] [fps] Set the FPS divisor to: 1
+[23:01:05] (Ogmaa) hihi
+[23:01:11] You offer to trade with Ogmaa.
+[23:01:17] [1]<Google> this whm damn cui >.>
+[23:01:17] Trade complete.
+[23:01:20] Clerie starts casting Teleport-Holla on Clerie.
+[23:01:21] Ogmaa bows courteously to Clerie.
+[23:01:25] (Clerie) ty!
+[23:01:38] Wedalo[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[23:02:00] === Area: Lower Jeuno ===
+[23:02:05] Wedalo cheers Rigsby on!
+[23:02:06] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:02:08] [fps] Set the FPS divisor to: 0
+[23:02:10] Witterbox : {Teleport-Dem} {Can I have it?}~
+[23:02:12] Rigsby bows courteously to Wedalo.
+[23:02:55] [1]<Kryst> u all bo share healing duties?
+[23:03:00] Quinn cheers Witterbox on!
+[23:03:23] Bokasmowl[PortJeuno]: {Teleport-Mea} please 500g
+[23:03:40] Esfi[LowJeuno]: {Teleport-Holla} {Can I have it?} {Reward}
+[23:03:54] [fps] Set the FPS divisor to: 1
+[23:04:05] Natte[PortBastok]: anyone doing the leeches in {Korroloka Tunnel} for nin quest?
+[23:04:11] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:04:15] [fps] Set the FPS divisor to: 0
+[23:04:37] Raistlinn[SSandOria]: {Teleport-Altep} {Can I have it?} 500g
+[23:04:58] Arghann[PortJeuno]: {Samurai} {Job} {Quest} {Notorious Monster} {Fight}x2 {Please assist.} 
+[23:05:08] Damack[BastokMark]: {Teleport-Dem} {Can I have it?}500g
+[23:05:22] Zeyger : {Teleport-Holla} {Can I have it?} 500g
+[23:05:28] (Clerie) hello!
+[23:05:31] [fps] Set the FPS divisor to: 1
+[23:05:36] (Clerie) I'm in front of the mog house
+[23:05:39] (Zeyger) hey! omw to you
+[23:06:01] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 3/?
+[23:06:01] You offer to trade with Zeyger.
+[23:06:13] Zeyger cheers Clerie on!
+[23:06:17] Esfi bows courteously to Plachek.
+[23:06:21] (Clerie) sent you a trade request
+[23:06:26] Horus[WindWoods]: WTS {King Truffle} {Bronze Bed} cheap PST
+[23:06:29] Trade complete.
+[23:06:31] Wildflare[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[23:06:32] Clerie starts casting Teleport-Holla on Clerie.
+[23:06:32] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:06:33] (Clerie) ty!
+[23:06:45] Wildflare waves to Rigsby.
+[23:07:10] === Area: Lower Jeuno ===
+[23:07:12] [fps] Set the FPS divisor to: 0
+[23:07:25] Mimiru[BastokMark]: {Teleport-Dem} {Can I have it?} {Reward} 500g
+[23:07:37] King waves to Flocker.
+[23:07:44] Glittergold[BastokMark]: {Teleport-Dem} {Can I have it?} {You can have this.} 500g
+[23:07:47] Trainwreck[RuLudeGard]: {Kuftal Tunnel} {Party} 53 sync LF tank 4/6
+[23:07:53] Molo bows courteously to Lordbright.
+[23:07:55] Coulant[BastokMark]: {Teleport-Mea} need it baddd reward 500G :)
+[23:08:06] Lordbright bows courteously to Plachek.
+[23:08:09] Delani[LowJeuno]: {Teleport-Holla} {Can I have it?} {Reward} 500g
+[23:08:11] Villiara[NSandOria]: LF3M (Healer and DPS) for Dragoon quest.
+[23:08:16] (Clerie) hello!
+[23:08:18] [fps] Set the FPS divisor to: 1
+[23:08:22] (Clerie) I'm at the mog house entrance
+[23:08:22] Daisho : {Teleport-Holla} {Reward}
+[23:08:24] (Delani) hisy
+[23:08:27] Oolong[UpJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[23:08:27] Delani wishes to trade with you.
+[23:08:31] Insig : {Teleport-Mea} {Can I have it?} 500g
+[23:08:33] (Delani) hiya even
+[23:08:33] Jolene[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[23:08:38] Jolene : me too
+[23:08:44] Trade complete.
+[23:08:48] (Clerie) hello!
+[23:08:49] Target out of range.
+[23:08:51] Daisho wishes to trade with you.
+[23:08:52] Safira[PortJeuno]: THF27/MNK13 {Looking for Party}
+[23:08:56] Jolene waves to Rigsby.
+[23:08:56] Eden : {Teleport-Yhoat} {Can I have it?} 500g
+[23:08:57] Delani motions joyfully to Clerie.
+[23:08:57] Trade complete.
+[23:09:02] Clerie starts casting Teleport-Holla on Clerie.
+[23:09:05] Bladeface[WindWoods]: {Teleport-Mea} {Can I have it?} 500g from {Windurst}
+[23:09:06] Eden waves to Phish.
+[23:09:09] Liones synthesized a piece of arrowwood lumber.
+[23:09:09] (Clerie) ty!
+[23:09:35] Eden[LowJeuno]: {Teleport-Yhoat} {Can I have it?} 500g
+[23:09:39] Zanji[BastokMine]: Any GM on?
+[23:09:42] === Area: Lower Jeuno ===
+[23:09:47] Slips[PortJeuno]: WHM32/RDM16 {Experience points} {please}
+[23:09:52] [fps] Set the FPS divisor to: 0
+[23:09:55] Liones synthesized a piece of arrowwood lumber.
+[23:09:56] King : {Teleport-Altep} {Can I have it?} {Reward} {/tell}
+[23:10:16] Liones synthesized a piece of arrowwood lumber.
+[23:10:17] Thoranir[SSandOria]: {Teleport-Holla} {Can I have it?} 500g PST
+[23:10:20] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:10:23] Drathar bows courteously to Quinn.
+[23:10:28] Artos[SSandOria]: anyone from {Bastok} or {Windurst} want to trade Rank 3 items for a {San d'Oria} Rank 3?   {/tell} {please}
+[23:10:30] Quinn smiles warmly.
+[23:10:38] Liones synthesized a piece of arrowwood lumber.
+[23:10:59] Liones synthesized a piece of arrowwood lumber.
+[23:11:03] Wickedsephiroth[Metalworks]: any {Linkshell}s recruiting?
+[23:11:13] Eden : {Teleport-Yhoat} {Can I have it?} 500g
+[23:11:19] Liones synthesized a piece of arrowwood lumber.
+[23:11:35] Zanfire[Selbina]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 3/?
+[23:11:43] Slips[LowJeuno]: WHM32/RDM16 {Experience points} {please}
+[23:11:49] Arghann[PortJeuno]: {Samurai} {Job} {Quest} {Notorious Monster} {Fight}x2 {Please assist.} 2/?
+[23:12:08] [2]<Biggs> what an ahole
+[23:12:33] [2]<Teshlor> ?
+[23:12:37] Chillsta : {Teleport-Dem} {Can I have it?} 500g
+[23:12:40] Booster : {Teleport-Dem} {Can I have it?} 500g
+[23:12:51] Zanji[BastokMine]: {Teleport-Holla} {Can I have it?} @ {Bastok} {please} 
+[23:12:58] [2]<Biggs> this dude sends me a tell: party jg?
+[23:13:07] Drath : {Teleport-Vahzl} {Can I have it?} 1000g
+[23:13:10] [2]<Biggs> when i asked where is jg?
+[23:13:22] [2]<Biggs> he writes back: nvm
+[23:13:26] Drath[LowJeuno]: {Teleport-Vahzl} {Can I have it?} 1000g
+[23:13:33] Asrai smiles warmly.
+[23:13:42] [2]<Biggs>  they he writes:  you need Kazham keys.
+[23:13:45] Quinn's casting is interrupted.
+[23:13:53] Rinste : How much is Gausebit Grass on AH and whats it under? o.O
+[23:14:05] [2]<Biggs> well, i have kazham keys ..it is listed in my search comment for xp 
+[23:14:06] Rinste : i wan chocob0r ;<
+[23:14:14] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:14:15] [2]<Drew> oh is jg supposed to stand for {Yuhtunga Jungle}? lol
+[23:14:15] [2]<Biggs> so i write back where is jg?
+[23:14:16] [2]<Teshlor> idk what jg is...
+[23:14:21] [2]<Teshlor> jungle?
+[23:14:24] [2]<Biggs> no reponse
+[23:14:35] [2]<Biggs> ikr? man he really pissed me off
+[23:14:35] Shadowstrife[WindWaters]: {Windurst} {Teleport-Mea} {Can I have it?}
+[23:14:40] Zenyth[LowJeuno]: WHM28/BLM14 {Looking for Party} {Experience points} Anywhere is fine
+[23:14:42] Asrai : Weapons > Ammo/Misc > Pet Items. It's about 250g per
+[23:14:53] Andro[SSandOria]: {Teleport-Mea} {Please invite me.} {money} {You can have this.}
+[23:14:56] Chalv[LowJeuno]: {Teleport-Holla} {Can I have it?} 500 gils
+[23:15:02] (Clerie) hello!
+[23:15:03] (Chalv) {Hello!}
+[23:15:04] Arghann[PortJeuno]: {Samurai} {Job} {Quest} {Notorious Monster} {Fight}x2 {Please assist.} 3/?
+[23:15:04] [fps] Set the FPS divisor to: 1
+[23:15:06] [2]<Drew> sounds like their issue not yours man I wouldn't sweat it
+[23:15:08] (Clerie) I'm at the mog house entrance
+[23:15:14] (Chalv) omw
+[23:15:17] Trainwreck[RuLudeGard]: {Kuftal Tunnel} {Party} 53 sync LF tank 4/6
+[23:15:19] Villiara[NSandOria]: LF2M (Healer and DPS) for Dragoon quest.
+[23:15:27] [2]<Biggs> yeah, just gonna brush it off, just bothers me there are aholes like that in this community
+[23:15:29] [2]<Silverhand> sounds like a group i'd not want to pt with anyway lol
+[23:15:36] Chalv wishes to trade with you.
+[23:15:37] [2]<Biggs> ^
+[23:15:43] [2]<Scarface> tesh
+[23:15:44] Trade complete.
+[23:15:46] Clerie starts casting Teleport-Holla on Clerie.
+[23:15:48] (Clerie) ty
+[23:15:52] [2]<Teshlor> ja?
+[23:16:00] [2]<Scarface> you should make a lfg tab in the discord, so we can cordinate parties =P
+[23:16:01] Shadowstrife[WindWoods]: {Windurst} {Teleport-Mea} {Can I have it?}
+[23:16:19] Swindler[LowJeuno]: WTB gold beastcoins & gold ore 5k ea pst
+[23:16:25] === Area: Lower Jeuno ===
+[23:16:28] [fps] Set the FPS divisor to: 0
+[23:16:38] Artos[SSandOria]: anyone from {Bastok} or {Windurst} want to trade Rank 3 items for a {San d'Oria} Rank 3?   {/tell} {please}
+[23:16:42] Uldrik's casting is interrupted.
+[23:16:54] Statiko : WTB {Teleport-Mea} 500g
+[23:17:15] Kogigi[NSandOria]: {Teleport-Altep} {Can I have it?} {You can have this.} 1k {money}
+[23:17:21] [2]<Biggs> btw i want to give a shout out to Tarnish who helped me get {Kazham} access yesterday, with his TH2 ... 
+[23:17:27] [2]<Biggs> really appreciated!!
+[23:17:30] [2]<Teshlor> a lfg tab?
+[23:17:40] Nismo[SSandOria]: {Teleport-Mea} from Sandy {Please assist.} 600gil {You can have this.}
+[23:17:51] Zanfire[NSandOria]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 4/?
+[23:17:55] [2]<Scarface> yeah a new forum, section, tab, wtf ever its called lol
+[23:17:58] Cringe[LowJeuno]: When is the server's "JP Midnight" again?
+[23:18:04] [2]<Teshlor> so you guys can ... 
+[23:18:07] [2]<Biggs> lol
+[23:18:11] Wickedsephiroth[PortBastok]: monday i think like 10 am?>
+[23:18:15] Yueechi[WindWalls]: 10am est
+[23:18:15] [2]<Teshlor> just make preplanned parties?
+[23:18:19] Clerie's Protect effect wears off.
+[23:18:21] Meloetta[WindWoods]: At jp midnight. :D
+[23:18:27] Kellirene[SSandOria]: 18 minutes ago
+[23:18:29] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:18:33] [1]<Kryst> this thf chiongster
+[23:18:39] [2]<Scarface> yeah
+[23:18:52] [1]<Google> peepur fire old man hor 
+[23:18:52] [2]<Teshlor> ok
+[23:18:57] Zanji bows courteously to Quinn.
+[23:19:02] [2]<Saltysam> I'm still learning, what is TH2?
+[23:19:04] Quinn smiles warmly at Zanji.
+[23:19:06] [2]<Teshlor> made a channel under Final Fantasy Chats called "party_finder"
+[23:19:11] [2]<Mathious> {Treasure Hunter}
+[23:19:11] [2]<Teshlor> treasure hunter 2
+[23:19:13] [2]<Gufrion> {Treasure Hunter} 2
+[23:19:18] [2]<Teshlor> thf unlocks it at 45
+[23:19:18] [2]<Scarface> *thumbs up*
+[23:19:27] Rhazgull[UpJeuno]: {Raise} {Can I have it?} K-8 {Batallia Downs} {please}
+[23:19:31] [2]<Scarface> now lets party together tesh <3
+[23:19:31] Spidey : {Teleport-Holla} {Can I have it?} 500 gil
+[23:19:40] [2]<Teshlor> I need to make gilz
+[23:19:41] Feanaro[UpJeuno]: {Teleport-Dem} {Can I have it?} {You can have this.} 500g
+[23:19:41] [1]<Kryst> fire old x-man
+[23:19:42] [2]<Saltysam> aaah right okay. I knew i heard it before
+[23:19:44] [2]<Gufrion> :O
+[23:19:48] Aero[PortJeuno]: {limit} {Break} 1 {Party} {Team up?}
+[23:19:49] Cole[LowJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[23:19:49] [2]<Gufrion> Tesh making gils!?
+[23:19:51] [2]<Scarface> same. wanna do PP?
+[23:19:55] [2]<Teshlor> shut up guf
+[23:19:59] (Clerie) hello!
+[23:20:00] [fps] Set the FPS divisor to: 1
+[23:20:01] Andro[SSandOria]: {Teleport-Mea} {Please invite me.} {money} {You can have this.}
+[23:20:08] Bjorn[LowJeuno]: BLM 18, WHM 36, OR RDM 75 LFP... 10+, 25+, 65+. {Thank you.}
+[23:20:10] (Spidey) sup one sec changing jobbs
+[23:20:15] Sphinx[WindWoods]: D2 @ {Windurst} {Can I have it?} {/tell}
+[23:20:32] You offer to trade with Cole.
+[23:20:32] Cole wishes to trade with you.
+[23:20:39] Oneadseven[PortJeuno]: {Teleport-Holla} {Can I have it?} {Reward} {Please invite me.}
+[23:20:40] Elderuru[PortJeuno]: {Teleport-Mea} {Can I have it?} {Reward}
+[23:20:42] Villiara[NSandOria]: LF2M (Healer and DPS) for Dragoon quest.
+[23:20:42] Trade complete.
+[23:20:48] You cannot invite that person at this time.
+[23:20:59] Musty : can someone come to Chululu (above the AH) so I can test our compatibility 
+[23:21:00] Trainwreck[RuLudeGard]: {Kuftal Tunnel} {Party} 53 sync LF tank 5/6
+[23:21:05] [2]<Silverhand> bruh this meteorite item don't exist XD
+[23:21:07] Ruinermane : {Warrior} {Looking for Party} lvl 21 {anything}
+[23:21:08] Target out of range.
+[23:21:10] (Clerie) over here
+[23:21:12] (Clerie) at the entrance
+[23:21:13] [2]<Teshlor> it do
+[23:21:17] Elderuru : {Teleport-Mea} {Can I have it?} {Reward}
+[23:21:19] (Clerie) behind you
+[23:21:20] [2]<Teshlor> make sure you're killing around the jhill
+[23:21:23] [2]<Silverhand> it only exist for you 
+[23:21:28] (Clerie) the mog house entrance
+[23:21:29] Elderuru waves to Flocker.
+[23:21:33] Flocker waves to Elderuru.
+[23:21:35] Flacko[WindWoods]: {Teleport-Holla} {Can I have it?} {please} 500g
+[23:21:39] Target out of range.
+[23:21:42] Target out of range.
+[23:21:42] [2]<Silverhand> what is "around" lol
+[23:21:46] Zanfire[NSandOria]: {Dragoon} {Job} {Fight} {Do you need it?} or {Help me out!} {/tell} 4/?
+[23:21:46] (Clerie) spidey
+[23:21:50] (Clerie) i'm behind you lol
+[23:21:51] Lothan : {Teleport-Holla} {Can I have it?} 500g
+[23:21:53] (Spidey) ?
+[23:21:57] [2]<Silverhand> is it only the chunks with the letters in it?
+[23:21:57] [2]<Teshlor> be on the hill, not flat ground
+[23:21:59] Fulton[WindWoods]: {Teleport-Holla} {Can I have it?} 500g
+[23:22:03] Vidiho : {Teleport-Yhoat} {Can I have it?} {please}
+[23:22:08] Spidey wishes to trade with you.
+[23:22:11] Rinste : Anyone wanna sell me some Gausebit Grass for cheap ;<
+[23:22:18] Trade complete.
+[23:22:18] Lothan wishes to trade with you.
+[23:22:21] Raidri : {Teleport-Mea} {Can I have it?} {Reward}
+[23:22:25] Trade complete.
+[23:22:26] (Spidey) im blind af
+[23:22:29] (Clerie) lol np
+[23:22:30] Bingchilling : {Teleport-Dem} {Can I have it?} 500g {You can have this.}
+[23:22:30] (Clerie) going to holla
+[23:22:31] [2]<Silverhand> dun see any there...guess someone is farming crawlers here
+[23:22:34] Clerie starts casting Teleport-Holla on Clerie.
+[23:22:36] Arghann[PortJeuno]: {Samurai} {Job} {Quest} {Notorious Monster} {Fight}x2 {Please assist.} 3/?
+[23:22:38] (Clerie) sec
+[23:22:48] [1]<Google> 20 like.. very low hor ?
+[23:22:49] Your 'Bronze axe' has sold to Oolong for 450 gil!
+[23:22:50] Woomie wishes to trade with you.
+[23:22:52] Vidiho : {Teleport-Yhoat} {Can I have it?} {please}
+[23:22:54] Clerie's casting is interrupted.
+[23:22:55] [1]<Kryst> ta
+[23:22:58] [1]<Kryst> ya
+[23:22:58] Clerie starts casting Teleport-Holla on Clerie.
+[23:23:02] [1]<Google> how ah
+[23:23:05] [1]<Google> stick to 23 ?
+[23:23:09] [1]<Google> until he hits 21
+[23:23:12] Yeshaya[SSandOria]: {Teleport-Holla} {Can I have it?} 500g
+[23:23:20] Yehva : {Teleport-Altep} 500 {Please invite me.}
+[23:25:17] [Ashita] Loaded plugin: Addons version: 1.40 - by: Ashita Development Team
+[23:25:17] [Ashita] Loaded plugin: Screenshot version: 1.00 - by: Ashita Development Team
+[23:25:17] [Ashita] Loaded plugin: PacketFlow version: 1.00 - by: Thorny (Concept by Byrth)
+[23:25:17] [Ashita] Loaded plugin: Thirdparty version: 1.00 - by: Ashita Development Team
+[23:25:17] [Addons] Failed to load addon 'ibar' due to an error. Error: cannot open \addons\ibar\\ibar.lua: No such file or directory
+[23:25:17] [Addons] Failed to load addon 'imgui' due to an error. Error: cannot open \addons\imgui\\imgui.lua: No such file or directory
+[23:25:17] [Addons] Failed to load addon 'status' due to an error. Error: cannot open \addons\status\\status.lua: No such file or directory
+[23:25:17] [Ashita] Bound: (Å´) insert to: /ashita
+[23:25:17] [Ashita] Bound: (Å´) SYSRQ to: /screenshot hide
+[23:25:17] [Ashita] Bound: (Å´) Ctrl-v to: /paste
+[23:25:17] [Ashita] Bound: (Å´) F11 to: /ambient
+[23:25:17] [Ashita] Bound: (Å´) F12 to: /fps
+[23:25:17] [Ashita] Bound: (Å´) Ctrl-F1 to: /input /ta <a10>
+[23:25:17] [Ashita] Bound: (Å´) Ctrl-F2 to: /input /ta <a11>
+[23:25:17] [Ashita] Bound: (Å´) Ctrl-F3 to: /input /ta <a12>
+[23:25:17] [Ashita] Bound: (Å´) Ctrl-F4 to: /input /ta <a13>
+[23:25:17] [Ashita] Bound: (Å´) Ctrl-F5 to: /input /ta <a14>
+[23:25:17] [Ashita] Bound: (Å´) Ctrl-F6 to: /input /ta <a15>
+[23:25:17] [Ashita] Bound: (Å´) Alt-F1 to: /input /ta <a20>
+[23:25:17] [Ashita] Bound: (Å´) Alt-F2 to: /input /ta <a21>
+[23:25:17] [Ashita] Bound: (Å´) Alt-F3 to: /input /ta <a22>
+[23:25:17] [Ashita] Bound: (Å´) Alt-F4 to: /input /ta <a23>
+[23:25:17] [Ashita] Bound: (Å´) Alt-F5 to: /input /ta <a24>
+[23:25:17] [Ashita] Bound: (Å´) Alt-F6 to: /input /ta <a25>
+[23:25:17] [Ashita] Bound: (Å´) F7 to: /input /ta <bt>
+[23:25:17] [instantah] Function patched; auction results should now be instant.
+[23:25:17] [Addons] Loaded addon: dynamic_entity_renamer version: 1.0.0.0 - by: zach2good, TeoTwawki, atom0s
+[23:25:17] [Addons] Loaded addon: allmaps version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: aspect version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: checker version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: clock version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: distance version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: drawdistance version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: filterless version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: fps version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: ime version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: instantah version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: logs version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: macrofix version: 1.0 - by: atom0s & Sorien
+[23:25:17] [Addons] Loaded addon: petinfo version: 1.0 - by: atom0s & Tornac
+[23:25:17] [Addons] Loaded addon: recast version: 1.0 - by: atom0s, Thorny, RZN
+[23:25:17] [Addons] Loaded addon: simplelog version: 0.10.1b - by: Created by Byrth, Ported by Spiken
+[23:25:17] [Addons] Loaded addon: Timers version: 1.0.1 - by: The Mystic
+[23:25:17] [Addons] Loaded addon: timestamp version: 1.0 - by: atom0s
+[23:25:17] [Addons] Loaded addon: tparty version: 1.0 - by: atom0s
+[23:25:17] [SimpleLog] Loaded configuration file: config.lua
+[23:25:17] [SimpleLog] Loaded filters profile: default_filters.lua
+[23:25:17] [SimpleLog] Loaded colors profile: chat_colors.lua
+[23:25:17] <<< Welcome to HorizonXI! >>>
+[23:25:17] A new adventure is just on the horizon! Please visit horizonxi.com for server information and resources.
+[23:25:17] The Starlight Celebration is active until January 7th. Thank you for being part of our community!
+[23:25:19] [1]< YewTee: Popiah >
+[23:25:19] https://discord.gg/Q6Qu4HAR (2023, Jan. 9 23:19:08)
+[23:25:19] [2]< Spira: Spongeh >
+[23:25:19] https://discord.gg/spira - Might be looking @ CoP starter stuff. Check events for next big thing! (2023, Jan. 3 22:48:27)
+[23:25:21] [2]<Drew> I feel like a piece of meat
+[23:25:29] === Area: Lower Jeuno ===
+[23:25:43] [fps] Set the FPS divisor to: 0
+[23:26:03] Woomie wishes to trade with you.
+[23:26:17] Daisho : {Teleport-Holla} {Can I have it?} {Reward}
+[23:26:17] Trade complete.
+[23:26:24] Mikachan[LowJeuno]: {Teleport-Mea} {Can I have it?}500g
+[23:26:28] You cannot invite that person at this time.
+[23:26:29] Dystopian : Dem please, 500G
+[23:26:32] [Clerie] scroll of Teleport-Dem Å® Clerie
+[23:26:33] Senshinyan bows courteously to Bean.
+[23:26:33] Clerie learns a new spell!
+[23:26:37] You cannot invite that person at this time.
+[23:26:38] Emberlash[LowJeuno]: {Teleport-Mea} {Can I have it?} 500g
+[23:26:50] Emberlash : {Teleport-Mea} {Can I have it?}
+[23:26:52] Dystopian : Dem please, 500G
+[23:26:58] Floop[PortJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[23:27:00] Bunsmckenzie[SSandOria]: {Teleport-Dem} {Can I have it?} 1000g
+[23:27:03] Bluedragon : {Teleport-Dem} {Can I have it?} {Reward:}500g
+[23:27:04] Dickynormus : need holla
+[23:27:04] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:27:04] (Dystopian) hey
+[23:27:05] (Clerie) hello!
+[23:27:06] Emberlash waves to Wubz.
+[23:27:11] Dystopian wishes to trade with you.
+[23:27:20] Trade complete.
+[23:27:21] Dickynormus : {Teleport-Holla}
+[23:27:30] [Clerie] Teleport-Dem Å® Clerie
+[23:27:30] Emberlash points at Dickynormus.
+[23:27:31] (Clerie) ty!
+[23:27:33] [fps] Set the FPS divisor to: 1
+[23:27:47] [Quinn] Teleport-Dem Å® Quinn
+[23:27:48] Trainwreck[RuLudeGard]: {Kuftal Tunnel} {Party} 53 sync LF tank 5/6 {/tell}
+[23:27:50] Lexara : mea>Holla
+[23:27:51] Clerie Teleport-Dem Å® {2}: Clerie and Dystopian (Vanish)
+[23:28:15] === Area: Lower Jeuno ===
+[23:28:18] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[23:28:20] Hardersenpai[PortJeuno]: {Teleport-Dem} {Can I have it?} 500g
+[23:28:24] Deadwyn : magicked skull {Can I have it?} {Team up?} 
+[23:28:25] You cannot invite that person at this time.
+[23:28:26] [fps] Set the FPS divisor to: 0
+[23:28:34] Arghann[PortJeuno]: {Samurai} {Job} {Quest} {Notorious Monster} {Fight}x2 {Please assist.} 3/?
+[23:28:57] [1]<Google> lol whm tell me he only got 1hr
+[23:28:59] [1]<Google> just nice ba
+[23:29:11] [1]<Kryst> ya
+[23:29:21] Umi[LowJeuno]: {Teleport-Mea}{Please invite me.}
+[23:29:26] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:29:40] Junior[BastokMark]: {Teleport-Mea} {Can I have it?} {You can have this.} 500g
+[23:30:34] Musty[LowJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[23:30:38] Station : {Teleport-Altep} {Can I have it?} 500G {Reward}
+[23:30:42] (Clerie) hello!
+[23:30:46] (Clerie) I'm in front of the mog house
+[23:30:48] [fps] Set the FPS divisor to: 1
+[23:30:49] (Musty) hiii lemme just change subjob
+[23:30:53] (Musty) and ill be ready
+[23:30:55] (Clerie) np
+[23:31:00] Åö Beast has been the first player to reach level 75 on Monk! Åö
+[23:31:05] [fps] Set the FPS divisor to: 0
+[23:31:08] Sam[PSandOria]: GZ
+[23:31:12] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[23:31:13] Missymay[PortWind]: gs
+[23:31:15] Ragnarr[BastokMine]: he's my babby daddy
+[23:31:15] Jamburglar[LowJeuno]: what a beast
+[23:31:18] Tatwo[Selbina]: congrats
+[23:31:19] Kuba[PortWind]: Grats Beast, gj!
+[23:31:19] Harumonk[BastokMark]: vey nice, congratulations
+[23:31:20] [1]<Cleubond> beast w
+[23:31:21] Redmaiden[LowJeuno]: likes, beast = monk?
+[23:31:33] Destroyer[WindWoods]: {Congratulations!}
+[23:31:36] Sss : {Teleport-Holla} {Can I have it?} {Reward:} 1k  PST
+[23:31:41] Musty wishes to trade with you.
+[23:31:42] Riaky[PortWind]: {Congratulations!}
+[23:31:43] You cannot invite that person at this time.
+[23:31:46] Lainer[WindWoods]: WTB Peacock Charm
+[23:31:46] Cringe[PortJeuno]: Beast earned it. Strongest Monk I've seen. Absolutely insane.
+[23:31:51] Trade complete.
+[23:31:58] [Clerie] Teleport-Holla Å® Clerie
+[23:32:00] Pancrazio[SSandOria]: Intro (sandy) and intermediate teamwork ({Elvaan}) {Quest} {Do you need it?} Mage's {Ballad} is the {Reward}
+[23:32:01] [fps] Set the FPS divisor to: 1
+[23:32:05] Juaggarnaut : {Teleport-Altep} {Can I have it?} {please} {Reward:} 500gil
+[23:32:18] Clerie Teleport-Holla Å® {2}: Clerie and Musty (Vanish)
+[23:32:27] (Clerie) ty!
+[23:32:28] Aero[LowJeuno]: LB1 {Do you need it?} {Looking for members.} {/tell} me {Job}
+[23:32:32] Mod[LowJeuno]: {Teleport-Vahzl} {Do you need it?}
+[23:32:33] [1]<Google> wah 23 here damn cui
+[23:32:38] === Area: Lower Jeuno ===
+[23:32:40] [fps] Set the FPS divisor to: 0
+[23:33:02] Emm[SSandOria]: Tele Dem/Holla/Mea/Altep {Do you need it?} - 500G ^^
+[23:33:03] Lexara : Selling Ports Holla/Dem/Mea {/tell} ^^
+[23:33:15] Khorda[LowJeuno]: I thought the real BST hit 75 a few days ago?
+[23:33:40] Qwerty[PortBastok]: Vac hit 75 thief last night btw 
+[23:33:54] Airies : {White Mage} AF2 {Help me out!} {Castle Oztroja} {/tell}
+[23:34:07] Bean shakes his head at Juaggarnaut.
+[23:34:08] Trainwreck[RuLudeGard]: {Kuftal Tunnel} {Party} 53 sync LF tank 5/6 {/tell}
+[23:34:15] Airies[LowJeuno]: {White Mage} AF2 {Help me out!} {Castle Oztroja} {/tell}
+[23:34:42] Vizer[PortJeuno]: THF31/NIN15 {Looking for Party} {Experience points} {Kazham}:O {Fisherman}:O {Level Sync} 30+
+[23:34:50] Plachek : anyone of 3 Sardine ball I can buy for 200g
+[23:35:12] Konkey : {Teleport-Holla} {Can I have it?} {You can have this.} 500g
+[23:35:16] [fps] Set the FPS divisor to: 1
+[23:35:21] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[23:35:23] (Clerie) hello!
+[23:35:26] You cannot invite that person at this time.
+[23:35:29] (Konkey) Hi!
+[23:35:31] You cannot invite that person at this time.
+[23:35:32] Konkey wishes to trade with you.
+[23:35:33] Deadwyn : Magicked Skull {Help me out!} {Do you need it?}  {Can I have it?} {/tell} {Team up?}
+[23:35:41] Trade complete.
+[23:35:46] [Clerie] Teleport-Holla Å® Clerie
+[23:35:49] (Clerie) ty!
+[23:35:59] Hexagon[LowJeuno]: {Teleport-Holla} {Can I have it?} {Reward:} 500 gil
+[23:36:07] Clerie Teleport-Holla Å® {3}: Clerie, Konkey, and Woomie (Vanish)
+[23:36:23] Barbarossa[LowJeuno]: royal jelly bcnm {Do you need it?} DD {Can I have it?} {piercing} is best
+[23:36:23] You cannot invite that person at this time.
+[23:36:31] === Area: Lower Jeuno ===
+[23:36:35] [fps] Set the FPS divisor to: 0
+[23:36:35] Balsa[BastokMark]: wtb people who won't undercut everything by 20+% /endrant
+[23:36:42] Hexagon motions joyfully to Bean.
+[23:36:45] Grimmark[UpJeuno]: {Teleport-Holla} {Can I have it?} 500g
+[23:36:46] Rageon[PortJeuno]: {Teleport-Holla} {Can I have it?} {please} 500g
+[23:36:50] Bean claps his hands at Hexagon.
+[23:36:52] You cannot invite that person at this time.
+[23:36:55] [Rave] wind cluster Å® Rave
+[23:36:55] Swayze[PortWind]: i'll pay less than balsa
+[23:36:58] Rikuku[Selbina]: we buy and sell ppl on this server?
+[23:36:59] [Rave] wind cluster Å® Rave
+[23:37:01] [Rave] wind cluster Å® Rave
+[23:37:04] [Rave] wind cluster Å® Rave
+[23:37:04] Alky[PortJeuno]: wtb people that undercut by 100%
+[23:37:07] [Rave] wind cluster Å® Rave
+[23:37:10] [Rave] wind cluster Å® Rave
+[23:37:11] Pancrazio[SSandOria]: Intro (sandy) and intermediate teamwork ({Elvaan}) {Quest} {Do you need it?} Mage's {Ballad} is the {Reward} 4/6
+[23:37:12] [Rave] wind cluster Å® Rave
+[23:37:14] [Rave] wind cluster Å® Rave
+[23:37:15] (Clerie) hello!
+[23:37:15] Bladeface : {Teleport-Holla} {Can I have it?} 500g
+[23:37:17] [Rave] wind cluster Å® Rave
+[23:37:20] [Rave] wind cluster Å® Rave
+[23:37:20] You cannot invite that person at this time.
+[23:37:21] (Grimmark) hey
+[23:37:22] Emberlash pokes Wubz.
+[23:37:23] [Rave] wind cluster Å® Rave
+[23:37:25] Emberlash : i died
+[23:37:27] [Rave] wind cluster Å® Rave
+[23:37:28] Emberlash : can you send me back
+[23:37:34] [fps] Set the FPS divisor to: 1
+[23:37:35] [Flocker] Teleport-Holla Å® Flocker
+[23:37:36] You offer to trade with Grimmark.
+[23:37:37] Grimmark wishes to trade with you.
+[23:37:41] Kenpachii : {Teleport-Mea} {Can I have it?} 500g
+[23:37:44] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:37:45] Talic[WindWoods]: {Teleport-Mea} {Can I have it?} {Please invite me.} 500g
+[23:37:45] Trade complete.
+[23:37:47] Safira[PortJeuno]: THF27/MNK13 {Looking for Party}
+[23:37:50] [Clerie] Teleport-Holla Å® Clerie
+[23:37:50] Emberlash : me to plz
+[23:37:52] Uho[LowJeuno]: Tele-Dem/Holla/Mea/Altep/Yhoat/Vahzl {Do you need it?}
+[23:37:55] (Clerie) ty!
+[23:37:56] Flocker Teleport-Holla Å® {2}: Flocker and Rageon (Vanish)
+[23:37:56] Grimmark bows courteously to Clerie.
+[23:37:57] Uld[PortJeuno]: {Teleport-Altep} {Can I have it?} {Reward:} 500g
+[23:37:58] Prof[LowJeuno]: WTB Amemet Skin and {Archer's Ring} pst
+[23:38:10] Clerie Teleport-Holla Å® {2}: Clerie and Grimmark (Vanish)
+[23:38:28] === Area: Lower Jeuno ===
+[23:38:36] [fps] Set the FPS divisor to: 0
+[23:38:41] Redric : {Teleport-Mea} pls
+[23:38:52] Airies : {White Mage} AF2 {Help me out!} {Castle Oztroja} {/tell}
+[23:38:59] Blude[SSandOria]: {Teleport-Holla}  500G {Can I have it?} /tell
+[23:39:32] Swindler[LowJeuno]: WTB gold beastcoins & gold ore 5k ea pst
+[23:39:32] Elysiana[LowJeuno]: anyone looking to do LB1 things? hoping to find a group
+[23:39:36] Mooze[SSandOria]: {Teleport-Mea} {Can I have it?} {please}?~~
+[23:39:44] Gufrion[LowJeuno]: {Teleport-Dem} {Can I have it?} {Please invite me.} 500g
+[23:39:53] [fps] Set the FPS divisor to: 1
+[23:39:54] (Clerie) hello!
+[23:39:55] Rem[LowJeuno]: THF57 {Looking for Party} {Experience points} - {Level Sync}48+ {food}/HQgearÅõ {Jeuno}HP - {Please invite me.}
+[23:39:56] [Bean] Teleport-Mea Å® Bean
+[23:40:01] (Gufrion) hey
+[23:40:17] Bean Teleport-Mea Å® {3}: Bean, Kenpachii, and Uld (Vanish)
+[23:40:21] Airies[LowJeuno]: {White Mage} AF2 {Help me out!} {Castle Oztroja} {/tell}
+[23:40:21] Gufrion wishes to trade with you.
+[23:40:28] Trade complete.
+[23:40:31] (Gufrion) thank you
+[23:40:37] [Clerie] Teleport-Dem Å® Clerie
+[23:40:39] (Clerie) ty!
+[23:40:58] Clerie Teleport-Dem Å® {2}: Clerie and Gufrion (Vanish)
+[23:40:59] Malpractice[LowJeuno]: {Teleport-Yhoat} {Can I have it?} 1k {Please invite me.}
+[23:41:19] === Area: Lower Jeuno ===
+[23:41:23] Effigi : {Teleport-Dem} {Please assist.}
+[23:41:23] [fps] Set the FPS divisor to: 0
+[23:41:27] You cannot invite that person at this time.
+[23:41:50] Tribout[BastokMark]: {Mission} 2-3 {Waughroon Shrine} {Fight} {Do you need it?} {/tell} @1/?
+[23:42:10] Effigi : {Teleport-Dem} {Please assist.}
+[23:42:13] Dumbledore : {Teleport-Dem} {Can I have it?} 500g
+[23:42:16] Blackstone[PortJeuno]: {Sea Serpent Grotto} Key farming {Do you need it?} {Can I have it?} {Please assist.} 2/??? {Thank you.} !
+[23:42:16] Trainwreck[RuLudeGard]: {Kuftal Tunnel} {Party} 53 sync LF tank 5/6
+[23:42:16] Dososin[LowJeuno]: THF48/NIN20 {Looking for Party} {food} = OK {Level Sync} 39+
+[23:42:20] (Clerie) hello
+[23:42:22] [fps] Set the FPS divisor to: 1
+[23:42:24] (Effigi) o/
+[23:42:28] (Dumbledore) ty for invite
+[23:42:30] Eremor[BastokMine]: WHM33/BLM16 {Looking for Party} {Experience points} {Please invite me.}
+[23:42:30] Kays[LowJeuno]: {Teleport-Holla} {Can I have it?}
+[23:42:34] (Clerie) hello, I'm at the mog house entrance
+[23:42:47] Target out of range.
+[23:42:51] You offer to trade with Dumbledore.
+[23:42:52] Khettu[BastokMark]: Teleport Mea/Dem/Holla 500g Altep/Yhoat 1000g {Do you need it?} /tell ^^/
+[23:42:59] [1]<Hocuspocus> {Hello!} YewTee
+[23:42:59] Chromatic[PortJeuno]: WHM25/RDM12 exp {Please invite me.}
+[23:43:02] Trade complete.
+[23:43:02] Kheldar waves to Trinton.
+[23:43:04] You offer to trade with Effigi.
+[23:43:17] Bean : [Bean]Teleport//Holla-Dem-Mea-Altep-Yhoat 500g {/tell}
+[23:43:29] Trade complete.
+[23:43:34] [Clerie] Teleport-Dem Å® Clerie
+[23:43:37] (Clerie) ty! going to dem
+[23:43:46] Prof : {Teleport-Holla} {Can I have it?}
+[23:43:54] Clerie Teleport-Dem Å® {3}: Clerie, Effigi, and Dumbledore (Vanish)
+[23:44:08] You cannot invite that person at this time.
+[23:44:15] === Area: Lower Jeuno ===
+[23:44:19] You cannot invite that person at this time.
+[23:44:26] [fps] Set the FPS divisor to: 0
+[23:44:33] Mikey[SSandOria]: {Teleport-Mea} {Can I have it?} {Thank you.}
+[23:44:47] Deadwyn : Magicked Skull {Help me out!} {Do you need it?}  {Can I have it?} {/tell} {Team up?}
+[23:45:05] [1]<Cleubond> 2/3 keys done
+[23:45:13] Rem[LowJeuno]: THF57 {Looking for Party} {Experience points} - {Level Sync}48+ {food}/HQgearÅõ {Jeuno}HP - {Please invite me.}
+[23:45:19] [1]<Cleubond> {Giddeus} key tmr
+[23:45:22] [1]<Hocuspocus> sorry my dinner was extra long
+[23:45:28] [1]<Woomie> congrats lar
+[23:45:29] Swindler[LowJeuno]: WTB gold beastcoins & gold ore 5k ea pst
+[23:45:29] [1]<Cleubond> np
+[23:45:29] Lux : {Teleport-Holla} {Can I have it?} 400g
+[23:45:33] [1]<Cleubond> one more
+[23:45:35] [fps] Set the FPS divisor to: 1
+[23:45:36] [1]<Hocuspocus> tomorrow i try but in Bang Cock
+[23:45:38] Sixos[PortJeuno]: {Teleport-Dem} plz 500g
+[23:45:41] (Clerie) hello
+[23:45:45] (Lux) hey!
+[23:45:47] Target out of range.
+[23:45:53] [1]<Lebbb> {fun}
+[23:45:56] Lux wishes to trade with you.
+[23:45:59] Mitzukii[LowJeuno]: {Teleport-Holla} {Can I have it?} 500g?
+[23:46:03] [1]<Hocuspocus> dont think so
+[23:46:05] Car[LowJeuno]: {Teleport-Holla} 500g
+[23:46:06] Trade complete.
+[23:46:08] [fps] Set the FPS divisor to: 1
+[23:46:15] (Lux) tyvm
+[23:46:16] >> /party 
+[23:46:16] ...A command error occurred.
+[23:46:17] [1]<Hocuspocus> going to kenna lecture for last year business results
+[23:46:21] [Clerie] Teleport-Holla Å® Clerie
+[23:46:24] (Clerie) ty! going to holla
+[23:46:24] Lordbright[LowJeuno]: Bright Tele Service~ Mea, Dem & holla. /t 500 gil
+[23:46:39] [1]<Woomie> rip goodluck
+[23:46:41] Clerie Teleport-Holla Å® {2}: Clerie and Lux (Vanish)
+[23:47:01] === Area: Lower Jeuno ===
+[23:47:14] [fps] Set the FPS divisor to: 0
+[23:47:14] Robzon[SSandOria]: {Teleport-Holla} {Can I have it?} 500g
+[23:47:20] [1]<Cleubond> after that come vanadiel and destress
+[23:47:22] Vac : {Teleport-Mea} {Can I have it?}
+[23:47:27] Daisho : {Teleport-Holla} {Can I have it?} {Reward}
+[23:47:33] [Zarianna] Teleport-Holla Å® Zarianna
+[23:47:35] Zarianna's casting is interrupted.
+[23:47:38] [1]<Hocuspocus> probably lol
+[23:47:39] Zarianna[LowJeuno]: ~Tired of walkin? Get a Tele!  DEM/HOLLA/MEA 500G PST~
+[23:47:41] (Clerie) hello!
+[23:47:43] [fps] Set the FPS divisor to: 1
+[23:47:46] [Quinn] Teleport-Holla Å® Quinn
+[23:48:04] You offer to trade with Daisho.
+[23:48:04] (Daisho) hello
+[23:48:06] Quinn Teleport-Holla Å® {2}: Quinn and Car (Vanish)
+[23:48:06] Quinn bows courteously to Car.
+[23:48:07] Car bows courteously to Quinn.
+[23:48:14] Trade complete.
+[23:48:19] Uzumaki[PortBastok]: {Teleport-Holla} {please} 500g
+[23:48:20] Paloom[SSandOria]: {Teleport-Holla} {Can I have it?} {Reward:} 500g
+[23:48:21] [Clerie] Teleport-Holla Å® Clerie
+[23:48:21] Gordge[SSandOria]: WTB {Teleport-Dem} {Reward:}500gil
+[23:48:23] (Clerie) ty! going to holla
+[23:48:39] Ludens : {Teleport-Mea} {Can I have it?}
+[23:48:41] Clerie Teleport-Holla Å® {2}: Clerie and Daisho (Vanish)
+[23:49:01] === Area: Lower Jeuno ===
+[23:49:04] [1]<Hocuspocus> i dont if fishing in Vanadiel is consider relaxing
+[23:49:04] [fps] Set the FPS divisor to: 0
+[23:49:07] Ludens bows courteously to Ciel.
+[23:49:12] Ciel bows courteously to Ludens.
+[23:49:25] Ciel Teleport-Mea Å® {2}: Ciel and Ludens (Vanish)
+[23:49:33] [1]<Cleubond> i need to start fishing soon...no gil
+[23:49:38] Puzzle waves to Zarianna.
+[23:49:42] Airies[LowJeuno]: {White Mage} AF2 {Help me out!} {Castle Oztroja} {/tell}
+[23:49:47] Judgesquirt : Seeking {Teleport-Mea} for 350g
+[23:49:52] [1]<Lebbb> i buy all your carp :P
+[23:49:55] Puzzle cheers Zarianna on!
+[23:49:59] [1]<Cleubond> heh
+[23:49:59] Zarianna performs a passionate samba for Puzzle.
+[23:50:03] Trainwreck[LowJeuno]: {Kuftal Tunnel} {Party} 53 sync LF tank 5/6
+[23:50:08] Zarianna bows courteously to Puzzle.
+[23:50:09] Puzzle performs a lively jig for Zarianna.
+[23:50:13] Zarianna claps her hands at Puzzle.
+[23:50:18] Dragon[PortJeuno]: {Teleport-Mea} {Can I have it?} {You can have this.} 500g
+[23:50:19] Cyphre : {Teleport-Holla} {Can I have it?} 500G
+[23:50:20] Laution[LowJeuno]: WTT: {Tarut:The Hermit} for Death or King
+[23:50:22] Teldaron[LowJeuno]: {Samurai} {Fight} {Can I have it?}
+[23:50:29] (Clerie) hello!
+[23:50:29] Underdawg : anyone wanna buy 2 stacks of ice crystals for discount?
+[23:50:31] [fps] Set the FPS divisor to: 1
+[23:50:32] Rem[LowJeuno]: THF57 {Looking for Party} {Experience points} - {Level Sync}48+ {food}/HQgearÅõ {Jeuno}HP - {Please invite me.}
+[23:50:34] Laryndra : {Teleport-Mea} plz
+[23:50:38] (Clerie) I'm at the mog house entrance
+[23:50:45] (Cyphre) Hey!
+[23:50:51] You offer to trade with Cyphre.
+[23:50:54] Laryndra[LowJeuno]: {Teleport-Mea} plz
+[23:50:58] Trade complete.
+[23:51:00] Judgesquirt[LowJeuno]: {Teleport-Mea} {Can I have it?}
+[23:51:02] [Clerie] Teleport-Holla Å® Clerie
+[23:51:04] (Clerie) ty! going to holla
+[23:51:13] Arlenz[LowJeuno]: WHM47/BLM23 {Looking for Party} {/tell}
+[23:51:22] Clerie Teleport-Holla Å® {2}: Clerie and Cyphre (Vanish)
+[23:51:41] === Area: Lower Jeuno ===
+[23:51:43] Giyira[PortJeuno]: {Teleport-Dem} {Can I have it?}
+[23:51:45] [Ciel] Teleport-Mea Å® Ciel
+[23:51:47] Airies : {White Mage} AF2 {Help me out!} {Castle Oztroja} {/tell}
+[23:51:48] [fps] Set the FPS divisor to: 0
+[23:51:50] Thf : {Teleport-Altep} {Can I have it?}
+[23:51:54] (Clerie) hello!
+[23:52:05] (Clerie) I'm at the mog house entrance
+[23:52:06] Ciel Teleport-Mea Å® {3}: Ciel, Laryndra, and Judgesquirt (Vanish)
+[23:52:12] Robzon[SSandOria]: {Teleport-Holla} {Can I have it?} 500g
+[23:52:17] Underdawg[LowJeuno]: who wants to do beast af in {Fei'Yin} pst lets doo it
+[23:52:18] (Giyira) hihi {Thank you.}
+[23:52:20] Emm[SSandOria]: Tele Dem/Holla/Mea/Altep {Do you need it?} - 500G ^^
+[23:52:24] Giyira wishes to trade with you.
+[23:52:30] Trade complete.
+[23:52:32] [fps] Set the FPS divisor to: 1
+[23:52:35] [Clerie] Teleport-Dem Å® Clerie
+[23:52:37] (Clerie) ty! going to dem
+[23:52:44] (Giyira) one sec
+[23:52:45] (Giyira) plz
+[23:52:50] (Giyira) grabibng something from mh
+[23:52:55] Clerie's casting is interrupted.
+[23:53:00] [fps] Set the FPS divisor to: 0
+[23:53:13] (Giyira) g2g
+[23:53:16] (Giyira) sry
+[23:53:17] [fps] Set the FPS divisor to: 1
+[23:53:22] [Clerie] Teleport-Dem Å® Clerie
+[23:53:27] (Clerie) np
+[23:53:34] [Giyira] strip of meat jerky Å® Giyira
+[23:53:42] Clerie Teleport-Dem Å® {2}: Clerie and Giyira (Vanish)
+[23:53:43] Venusaur[PortJeuno]: {Teleport-Dem} {Can I have it?} {Reward} 300
+[23:54:05] === Area: Lower Jeuno ===
+[23:54:13] You cannot invite that person at this time.
+[23:54:14] [fps] Set the FPS divisor to: 0
+[23:54:23] Oxxo[LowJeuno]: {Teleport-Altep} {Can I have it?} 500
+[23:54:49] Evilbunny[PSandOria]: {Teleport-Holla} {Can I have it?} {Please invite me.}
+[23:55:04] [Flocker] Teleport-Altep Å® Flocker
+[23:55:18] Wintervee : {Teleport-Mea} {Can I have it?}
+[23:55:24] Trippin[PortBastok]: {Teleport-Yhoat} {Can I have it?} {Reward} 500
+[23:55:25] Flocker Teleport-Altep Å® {2}: Flocker and Oxxo (Vanish)
+[23:55:31] Dash[LowJeuno]: RDM26/BLM11 {Looking for Party} {Experience points}
+[23:56:02] Ashika[LowJeuno]: {Teleport-Dem} {Can I have it?} 500g
+[23:56:07] [fps] Set the FPS divisor to: 1
+[23:56:18] (Clerie) hello!
+[23:56:21] Ashika wishes to trade with you.
+[23:56:21] Grimmark[RuLudeGard]: {Teleport-Holla} {Can I have it?} 500g
+[23:56:27] Trade complete.
+[23:56:30] [Clerie] Teleport-Dem Å® Clerie
+[23:56:31] Elysiana : {Teleport-Yhoat} can i have it?
+[23:56:33] (Clerie) ty! going to dem
+[23:56:33] (Ashika) ty :) 
+[23:56:50] Clerie Teleport-Dem Å® {2}: Clerie and Ashika (Vanish)
+[23:56:59] Stonedwall[UpJeuno]: {Teleport-Dem} {Can I have it?} {Reward}
+[23:57:13] Slyceandicee[LowJeuno]: RDM30/WHM15 {Looking for Party} {Experience points} lvl20+
+[23:57:17] === Area: Lower Jeuno ===
+[23:57:19] (Clerie) hello!
+[23:57:19] Sloth[BastokMark]: {Teleport-Holla} {Can I have it?}
+[23:57:25] Barbarossa[LowJeuno]: {Teleport-Dem} {Can I have it?} x3 {/tell} for invite
+[23:57:26] (Clerie) I'm at the mog house entrance
+[23:57:30] You cannot invite that person at this time.
+[23:57:41] You offer to trade with Stonedwall.
+[23:57:47] Trade complete.
+[23:57:49] Fortniteguy[SSandOria]: WTB Nebimonites 1.5k stack {/tell}
+[23:57:54] [Clerie] Teleport-Dem Å® Clerie
+[23:57:57] (Clerie) ty! going to dem
+[23:58:13] Kanye[LowJeuno]: WTB {Pet Fd. Gamma} stacks 1k each!
+[23:58:14] Clerie Teleport-Dem Å® {2}: Clerie and Stonedwall (Vanish)
+[23:58:34] === Area: Lower Jeuno ===
+[23:58:38] [fps] Set the FPS divisor to: 0
+[23:58:53] Vandaljd[Rabao]: if anyone sees fire weather please let me know ^^
+[23:59:17] Trainwreck[LowJeuno]: {Kuftal Tunnel} {Party} 53 sync LF tank 5/6
+[23:59:27] Losoakuma[LowJeuno]: {Teleport-Mea}
+[23:59:31] Underdawg : {Teleport-Vahzl} {Can I have it?} {Reward} 1k
+[23:59:41] Knipp : {Teleport-Mea} {Can I have it?} 500g
+[23:59:51] Eladant[PortJeuno]: WTB {Dispel} 55k (only 63k at vendor)

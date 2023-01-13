@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AshitaChatAlert", "AshitaChatAlert\AshitaChatAlert.csproj", "{09370DE5-D454-4453-BB7C-2E19E157241A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09370DE5-D454-4453-BB7C-2E19E157241A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09370DE5-D454-4453-BB7C-2E19E157241A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09370DE5-D454-4453-BB7C-2E19E157241A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09370DE5-D454-4453-BB7C-2E19E157241A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

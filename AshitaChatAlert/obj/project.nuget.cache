@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DeHdS3SqFkACBSXg6aWHB1WCvnDDIM6FPV0iK99lR2y2mv3Fa0nJWn/U9JCZ3A6EIw9/A0yZ769iJBN47RJhWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\AshitaChatAlert\\AshitaChatAlert\\AshitaChatAlert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sovasin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sovasin\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
