@@ -1,9 +1,9 @@
 ﻿using System.Text;
 using TextCopy;
 
-namespace AshitaChatAlert;
+namespace FFXIInviteAssist;
 
-class AshitaChatAlert
+class FFXIInviteAssist
 {
     private static string? LatestFile;
     private static List<string>? RegionWhiteList;

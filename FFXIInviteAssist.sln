@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AshitaChatAlert", "AshitaChatAlert\AshitaChatAlert.csproj", "{09370DE5-D454-4453-BB7C-2E19E157241A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFXIInviteAssist", "FFXIInviteAssist\FFXIInviteAssist.csproj", "{09370DE5-D454-4453-BB7C-2E19E157241A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
