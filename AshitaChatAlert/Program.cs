@@ -12,9 +12,7 @@ class AshitaChatAlert
     [STAThread]
     public static void Main(string[] args)
     {
-        ContentWhiteList = new List<string>{"holla", "dem", "mea"};
-        Console.WriteLine("Enter whitelist:");
-        RegionWhiteList?.Add(new string(Console.ReadLine()).ToLower());
+        InitialiseWhitelists();
         using var logWatcher =
             (args.Length == 0) ? new FileSystemWatcher(".\\chatlogs") : new FileSystemWatcher(args[0]);
         logWatcher.NotifyFilter =
@@ -30,8 +28,16 @@ class AshitaChatAlert
         logWatcher.Filter = "*.log";
         logWatcher.EnableRaisingEvents = true;
 
-        Console.WriteLine("Monitoring log. Press 'q' to exit.");
+        Console.WriteLine("Monitoring log. Press any key to exit.");
         Console.ReadLine();
+    }
+
+    private static void InitialiseWhitelists()
+    {
+        Console.WriteLine("Enter comma-separated content whitelist:");
+        RegionWhiteList = new List<string>(Console.ReadLine()?.ToLower().Split(',') ?? Array.Empty<string>());
+        Console.WriteLine("Enter comma-separated region whitelist:");
+        ContentWhiteList = new List<string>(Console.ReadLine()?.ToLower().Split(',') ?? Array.Empty<string>());
     }
 
     private static void LoadLatestLog()
@@ -68,16 +74,14 @@ class AshitaChatAlert
 
     private static string GetLastPlayerName()
     {
-        if (LatestFile != null)
-        {
-            string lastLine = File.ReadLines(LatestFile).Last().ToLower();
-            string[] lastLineParts = lastLine.Split(':');
-            if (lastLineParts.Length < 4) throw new InvalidDataException("Probably an emote.");
-            string playerRegion = lastLineParts[2].Remove(0, 4);
-            string content = lastLineParts[3];
-            if (!CheckContentAgainstWhiteList(content)) throw new InvalidDataException("Not in whitelist.");
-            return playerRegion.Contains('[') ? CleanYell(playerRegion) : CleanShout(playerRegion);
-        }
+        if (LatestFile == null) throw new InvalidDataException("Log file is null.");
+        string lastLine = File.ReadLines(LatestFile).Last().ToLower();
+        string[] lastLineParts = lastLine.Split(':');
+        if (lastLineParts.Length < 4) throw new InvalidDataException("Probably an emote.");
+        string playerRegion = lastLineParts[2].Remove(0, 4);
+        string content = lastLineParts[3];
+        if (!CheckContentAgainstWhiteList(content)) throw new InvalidDataException("Not in whitelist.");
+        return playerRegion.Contains('[') ? CleanYell(playerRegion) : CleanShout(playerRegion);
     }
 
     private static bool CheckContentAgainstWhiteList(string content)
