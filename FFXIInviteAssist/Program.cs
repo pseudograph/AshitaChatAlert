@@ -35,9 +35,9 @@ class FFXIInviteAssist
     private static void InitialiseWhitelists()
     {
         Console.WriteLine("Enter comma-separated content whitelist:");
-        RegionWhiteList = new List<string>(Console.ReadLine()?.ToLower().Split(',') ?? Array.Empty<string>());
-        Console.WriteLine("Enter comma-separated region whitelist:");
         ContentWhiteList = new List<string>(Console.ReadLine()?.ToLower().Split(',') ?? Array.Empty<string>());
+        Console.WriteLine("Enter comma-separated region whitelist:");
+        RegionWhiteList = new List<string>(Console.ReadLine()?.ToLower().Split(',') ?? Array.Empty<string>());
     }
 
     private static void LoadLatestLog()
@@ -64,7 +64,9 @@ class FFXIInviteAssist
 
         try
         {
-            ClipboardService.SetText($"/pcmd add {GetLastPlayerName()}");
+            string res = GetLastPlayerName();
+            ClipboardService.SetText($"/pcmd add res");
+//            ClipboardService.SetText($"/pcmd add {GetLastPlayerName()}");
         }
         catch (InvalidDataException exception)
         {
