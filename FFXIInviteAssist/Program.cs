@@ -65,8 +65,7 @@ class FFXIInviteAssist
         try
         {
             string res = GetLastPlayerName();
-            ClipboardService.SetText($"/pcmd add res");
-//            ClipboardService.SetText($"/pcmd add {GetLastPlayerName()}");
+            ClipboardService.SetText($"/pcmd add {GetLastPlayerName()}");
         }
         catch (InvalidDataException exception)
         {
